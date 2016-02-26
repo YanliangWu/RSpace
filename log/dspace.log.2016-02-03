@@ -1,0 +1,923 @@
+2016-02-03 00:19:07,099 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=04BA92EF29765356ACE1445CEFFE72DD:ip_addr=101.226.125.113:view_community_list:
+2016-02-03 00:19:07,489 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 00:19:25,306 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9210324C12C56F010807C6732EA89D20:ip_addr=101.226.61.142:view_community_list:
+2016-02-03 00:19:25,306 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 00:38:51,516 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:view_community_list:
+2016-02-03 00:38:51,516 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 00:39:45,430 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:view_community_list:
+2016-02-03 00:39:45,431 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 00:39:47,805 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:view_community:community_id=1
+2016-02-03 00:39:48,369 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2016-02-03 00:40:01,247 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:view_community_list:
+2016-02-03 00:40:01,268 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 00:41:04,318 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-02-03 00:41:04,324 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:authenticate:type=PasswordAuthentication
+2016-02-03 00:41:04,324 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:update_eperson:eperson_id=1
+2016-02-03 00:41:04,324 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:login:type=explicit
+2016-02-03 00:41:04,796 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:view_community_list:
+2016-02-03 00:41:04,796 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 00:41:05,742 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:view_community_list:
+2016-02-03 00:41:07,838 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:view_collection:collection_id=2
+2016-02-03 00:41:07,976 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@6de24c6: 3
+2016-02-03 00:41:29,136 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:update_item:item_id=1
+2016-02-03 00:41:29,155 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:create_item:item_id=1
+2016-02-03 00:41:29,176 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:update_item:item_id=1
+2016-02-03 00:41:29,177 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:create_workspace_item:workspace_item_id=-1item_id=1collection_id=2
+2016-02-03 00:41:29,252 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=1
+2016-02-03 00:41:29,259 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:41:29,267 INFO  org.dspace.event.EventManager @ 
+2016-02-03 00:41:29,329 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=1
+2016-02-03 00:41:29,333 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:41:29,336 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=1
+2016-02-03 00:41:29,350 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:42:01,922 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=1
+2016-02-03 00:42:01,931 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:42:01,957 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2016-02-03 00:42:11,130 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2016-02-03 00:42:11,517 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 00:42:11,538 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 00:42:13,363 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=1
+2016-02-03 00:42:13,365 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:42:13,380 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=1
+2016-02-03 00:42:13,382 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:42:36,498 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=1
+2016-02-03 00:42:36,499 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:43:53,010 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=1
+2016-02-03 00:43:53,014 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:43:53,035 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=1
+2016-02-03 00:43:53,037 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:44:56,129 INFO  org.dspace.content.Bundle @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:create_bundle:bundle_id=1
+2016-02-03 00:44:56,132 INFO  org.dspace.content.Bundle @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_bundle:bundle_id=1
+2016-02-03 00:44:56,134 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:add_bundle:item_id=1,bundle_id=1
+2016-02-03 00:44:56,184 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:create_bitstream:bitstream_id=1
+2016-02-03 00:44:56,193 INFO  org.dspace.content.Bundle @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:add_bitstream:bundle_id=1,bitstream_id=1
+2016-02-03 00:44:56,203 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:add_bundle:item_id=1,bundle_id=1
+2016-02-03 00:44:56,205 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_bitstream:bitstream_id=1
+2016-02-03 00:44:56,207 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:44:56,207 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_bitstream:bitstream_id=1
+2016-02-03 00:44:56,211 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_bitstream:bitstream_id=1
+2016-02-03 00:44:56,214 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=1
+2016-02-03 00:44:56,215 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:44:58,838 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=1
+2016-02-03 00:44:58,845 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:45:01,464 INFO  org.dspace.submit.step.LicenseStep @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:accept_license:workspace_item_id1
+2016-02-03 00:45:01,467 INFO  org.dspace.content.Bundle @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:create_bundle:bundle_id=2
+2016-02-03 00:45:01,467 INFO  org.dspace.content.Bundle @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_bundle:bundle_id=2
+2016-02-03 00:45:01,469 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:add_bundle:item_id=1,bundle_id=2
+2016-02-03 00:45:01,479 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:create_bitstream:bitstream_id=2
+2016-02-03 00:45:01,483 INFO  org.dspace.content.Bundle @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:add_bitstream:bundle_id=2,bitstream_id=2
+2016-02-03 00:45:01,487 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:add_bundle:item_id=1,bundle_id=2
+2016-02-03 00:45:01,489 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_bitstream:bitstream_id=2
+2016-02-03 00:45:01,492 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=1
+2016-02-03 00:45:01,493 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:45:01,493 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_bitstream:bitstream_id=2
+2016-02-03 00:45:01,497 INFO  org.dspace.submit.step.CompleteStep @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:submission_complete:Completed submission with id=1
+2016-02-03 00:45:01,497 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:start_workflow:workspace_item_id=1item_id=1collection_id=2
+2016-02-03 00:45:01,507 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:45:01,526 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:delete_workspace_item:workspace_item_id=1item_id=1collection_id=2
+2016-02-03 00:45:01,577 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:archive_item:workflow_item_id=1item_id=1collection_id=2
+2016-02-03 00:45:01,586 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:45:01,594 INFO  org.dspace.content.Collection @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:add_item:collection_id=2,item_id=1
+2016-02-03 00:45:01,626 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=1
+2016-02-03 00:45:01,647 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:install_item:workflow_id=1, item_id=1handle=FIXME
+2016-02-03 00:45:01,839 WARN  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:notifyOfArchive:cannot email user item_id=1
+2016-02-03 00:45:01,840 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:workflow_item:handle=123456789/6
+2016-02-03 00:45:01,858 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:advance_workflow:workflow_item_id=1,item_id=1,collection_id=2,old_state=6,new_state=7
+2016-02-03 00:45:01,866 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:workflow_item:handle=123456789/6
+2016-02-03 00:45:01,894 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:advance_workflow:workflow_item_id=1,item_id=1,collection_id=2,old_state=4,new_state=7
+2016-02-03 00:45:01,894 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:workflow_item:handle=123456789/6
+2016-02-03 00:45:01,905 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:advance_workflow:workflow_item_id=1,item_id=1,collection_id=2,old_state=2,new_state=7
+2016-02-03 00:45:01,906 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:workflow_item:handle=123456789/6
+2016-02-03 00:45:01,918 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:advance_workflow:workflow_item_id=1,item_id=1,collection_id=2,old_state=0,new_state=7
+2016-02-03 00:45:02,557 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/6 to Index
+2016-02-03 00:45:04,277 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:update_item:item_id=2
+2016-02-03 00:45:04,278 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:create_item:item_id=2
+2016-02-03 00:45:04,283 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:update_item:item_id=2
+2016-02-03 00:45:04,284 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:create_workspace_item:workspace_item_id=-1item_id=2collection_id=2
+2016-02-03 00:45:04,286 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=2
+2016-02-03 00:45:04,288 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=2
+2016-02-03 00:45:04,291 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=2
+2016-02-03 00:45:04,292 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=2
+2016-02-03 00:45:04,294 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_workspace_item:workspace_item_id=2
+2016-02-03 00:45:04,295 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:update_item:item_id=2
+2016-02-03 00:45:05,986 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:view_community_list:
+2016-02-03 00:45:05,987 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 00:45:07,928 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:view_community:community_id=2
+2016-02-03 00:45:08,070 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-02-03 00:45:09,722 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:view_collection:collection_id=2
+2016-02-03 00:45:09,834 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@6de24c6: 3
+2016-02-03 00:45:16,565 INFO  org.dspace.browse.BrowseEngine @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:browse_by_item:
+2016-02-03 00:45:16,619 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:browse:org.dspace.app.xmlui.utils.DSpaceValidity@67f58463
+2016-02-03 00:45:18,414 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:view_item:handle=123456789/6
+2016-02-03 00:45:18,553 INFO  org.dspace.app.util.GoogleMetadata @ Using [/dspace/config/crosswalks/google-metadata.properties] for Google Metadata configuration
+2016-02-03 00:45:20,512 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=FD668C03E7BF869AA8C592CEF6443D28:ip_addr=207.35.219.98:view_bitstream:bitstream_id=1
+2016-02-03 02:40:55,927 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:view_community_list:
+2016-02-03 02:40:55,927 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 02:40:56,035 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 02:41:37,502 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-02-03 02:41:37,509 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:authenticate:type=PasswordAuthentication
+2016-02-03 02:41:37,510 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:update_eperson:eperson_id=1
+2016-02-03 02:41:37,510 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:login:type=explicit
+2016-02-03 02:41:38,054 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:view_community_list:
+2016-02-03 02:41:38,055 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 02:41:49,921 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:view_item:handle=123456789/6
+2016-02-03 02:42:37,814 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:create_eperson:eperson_id=2
+2016-02-03 02:42:37,815 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:update_eperson:eperson_id=2
+2016-02-03 02:42:37,816 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:update_eperson:eperson_id=2
+2016-02-03 02:42:53,200 INFO  org.dspace.app.xmlui.aspect.eperson.EditProfile @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:view_profile:
+2016-02-03 02:43:17,062 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:view_community_list:
+2016-02-03 02:43:17,063 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 02:43:27,573 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-02-03 02:43:27,583 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:authenticate:type=PasswordAuthentication
+2016-02-03 02:43:27,587 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:update_eperson:eperson_id=1
+2016-02-03 02:43:27,587 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:login:type=explicit
+2016-02-03 02:43:28,208 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:view_community_list:
+2016-02-03 02:43:28,209 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 02:43:37,511 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:view_community_list:
+2016-02-03 02:43:39,854 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:view_community:community_id=1
+2016-02-03 02:43:39,907 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2016-02-03 02:43:44,709 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:view_collection:collection_id=1
+2016-02-03 02:43:45,177 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@310b6989: 3
+2016-02-03 02:43:48,873 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:view_community:community_id=3
+2016-02-03 02:43:48,953 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@278: 3
+2016-02-03 02:43:58,137 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=7B4F705962BB0A20EB5B94AAC65AEC87:ip_addr=135.0.27.200:view_community_list:
+2016-02-03 02:43:58,138 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 14:37:38,953 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=40E64213CF2D718E9818A79A266188D8:ip_addr=207.35.219.98:browse_mini:
+2016-02-03 14:37:39,017 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 14:37:39,057 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2016-02-03 14:37:39,079 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2016-02-03 14:37:40,379 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=2A8737C0C007EDAD096F16D5DFBBFAB0:ip_addr=207.35.219.98:view_community_list:
+2016-02-03 14:37:40,379 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 14:41:21,639 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=40E64213CF2D718E9818A79A266188D8:ip_addr=207.35.219.98:browse_mini:
+2016-02-03 14:41:21,678 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 14:41:24,140 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=40E64213CF2D718E9818A79A266188D8:ip_addr=207.35.219.98:browse_mini:
+2016-02-03 14:41:24,170 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 14:45:15,371 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2016-02-03 14:45:15,662 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2016-02-03 14:45:15,662 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2016-02-03 14:45:15,663 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2016-02-03 14:45:15,663 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2016-02-03 14:45:15,663 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2016-02-03 14:45:15,663 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2016-02-03 14:45:15,663 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2016-02-03 14:45:15,663 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2016-02-03 14:45:15,663 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2016-02-03 14:50:56,723 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=40E64213CF2D718E9818A79A266188D8:ip_addr=207.35.219.98:browse_mini:
+2016-02-03 14:50:57,227 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 14:50:57,755 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2016-02-03 14:50:57,778 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2016-02-03 14:54:14,562 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=40E64213CF2D718E9818A79A266188D8:ip_addr=207.35.219.98:browse_mini:
+2016-02-03 14:54:14,605 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 14:59:10,139 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=40E64213CF2D718E9818A79A266188D8:ip_addr=207.35.219.98:browse_mini:
+2016-02-03 14:59:10,163 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 15:06:53,366 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2016-02-03 15:06:53,590 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2016-02-03 15:06:53,590 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2016-02-03 15:06:53,590 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2016-02-03 15:06:53,590 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2016-02-03 15:06:53,590 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2016-02-03 15:06:53,590 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2016-02-03 15:06:53,590 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2016-02-03 15:06:53,590 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2016-02-03 15:06:53,591 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2016-02-03 15:07:36,947 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=40E64213CF2D718E9818A79A266188D8:ip_addr=207.35.219.98:browse_mini:
+2016-02-03 15:07:37,634 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 15:07:38,071 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2016-02-03 15:07:38,082 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2016-02-03 18:30:18,093 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=C305B06B35E810A24373C3380CFBE8AB:ip_addr=129.97.118.251:browse_mini:
+2016-02-03 18:30:18,141 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 18:33:32,108 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=A1F02C03C2AA22762FDA7A081F768B30:ip_addr=129.97.118.251:view_community_list:
+2016-02-03 18:33:32,109 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:view_community_list:
+2016-02-03 18:33:32,119 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:33:32,126 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:33:32,967 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2016-02-03 18:33:32,994 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2016-02-03 18:33:37,556 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=C305B06B35E810A24373C3380CFBE8AB:ip_addr=129.97.118.251:browse_mini:
+2016-02-03 18:33:37,609 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 18:34:18,227 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:view_community_list:
+2016-02-03 18:34:18,227 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:34:18,788 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:view_community_list:
+2016-02-03 18:34:18,789 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:34:49,092 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-02-03 18:34:49,134 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-02-03 18:34:49,136 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:update_eperson:eperson_id=1
+2016-02-03 18:34:49,136 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:login:type=explicit
+2016-02-03 18:34:49,803 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:view_community_list:
+2016-02-03 18:34:49,803 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:34:54,696 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:view_community:community_id=1
+2016-02-03 18:34:54,705 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2016-02-03 18:34:54,705 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost:8080/solr/statistics
+2016-02-03 18:34:54,705 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/dspace/config/GeoLiteCity.dat
+2016-02-03 18:34:55,145 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2016-02-03 18:34:55,149 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-02-03 18:34:55,236 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-misc.txt
+2016-02-03 18:34:55,242 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-infoseek.txt
+2016-02-03 18:34:56,037 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2016-02-03 18:34:56,192 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2016-02-03 18:34:56,227 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2016-02-03 18:34:56,432 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2016-02-03 18:34:56,583 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2016-02-03 18:34:56,619 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2016-02-03 18:34:57,325 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2016-02-03 18:34:57,325 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-non_engines.txt
+2016-02-03 18:34:57,341 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-altavista.txt
+2016-02-03 18:34:57,345 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-excite.txt
+2016-02-03 18:34:57,347 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-lycos.txt
+2016-02-03 18:34:57,353 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-inktomi.txt
+2016-02-03 18:34:57,359 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-google.txt
+2016-02-03 18:34:57,362 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2016-02-03 18:34:57,771 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2016-02-03 18:34:58,366 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:view_community:community_id=1
+2016-02-03 18:34:58,786 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2016-02-03 18:35:21,146 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:update_item:item_id=3
+2016-02-03 18:35:21,148 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:create_item:item_id=3
+2016-02-03 18:35:21,176 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:update_item:item_id=3
+2016-02-03 18:35:21,177 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:ip_addr=129.97.118.251:create_workspace_item:workspace_item_id=-1item_id=3collection_id=2
+2016-02-03 18:35:21,259 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:update_workspace_item:workspace_item_id=3
+2016-02-03 18:35:21,261 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:update_item:item_id=3
+2016-02-03 18:35:21,271 INFO  org.dspace.event.EventManager @ 
+2016-02-03 18:35:21,319 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:update_workspace_item:workspace_item_id=3
+2016-02-03 18:35:21,320 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:update_item:item_id=3
+2016-02-03 18:35:21,325 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:update_workspace_item:workspace_item_id=3
+2016-02-03 18:35:21,327 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:update_item:item_id=3
+2016-02-03 18:37:06,113 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:update_workspace_item:workspace_item_id=3
+2016-02-03 18:37:06,115 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:update_item:item_id=3
+2016-02-03 18:37:06,226 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:39:03,515 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:update_workspace_item:workspace_item_id=3
+2016-02-03 18:39:03,519 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=24F4625D47F40A551CAD6D24B2F556A6:update_item:item_id=3
+2016-02-03 18:39:04,032 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:39:04,033 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:40:12,926 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2016-02-03 18:40:13,158 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2016-02-03 18:40:13,158 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2016-02-03 18:40:13,158 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2016-02-03 18:40:13,158 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2016-02-03 18:40:13,158 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2016-02-03 18:40:13,158 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2016-02-03 18:40:13,158 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2016-02-03 18:40:13,158 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2016-02-03 18:40:13,159 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2016-02-03 18:40:57,060 ERROR org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter @ Problem in multipart filter. Unable to create request.
+java.lang.NullPointerException
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2016-02-03 18:40:57,061 ERROR org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter @ Problem in multipart filter. Unable to create request.
+java.lang.NullPointerException
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2016-02-03 18:41:00,679 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=7E8D1242299C0F371BB3C6E824EF6BF6:ip_addr=207.35.219.98:browse_mini:
+2016-02-03 18:41:02,117 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 18:41:02,680 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2016-02-03 18:41:02,717 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2016-02-03 18:41:04,497 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=FF7B510C66AC19881B69534B79B615DA:ip_addr=129.97.118.251:view_item:handle=123456789/6
+2016-02-03 18:41:04,897 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2016-02-03 18:41:04,897 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost:8080/solr/statistics
+2016-02-03 18:41:04,897 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/dspace/config/GeoLiteCity.dat
+2016-02-03 18:41:05,078 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=47B839898D93C967FA0F3558769047F1:ip_addr=129.97.118.251:view_item:handle=123456789/6
+2016-02-03 18:41:05,227 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=21C61AF328AD9E357E3794F5672A9E46:ip_addr=129.97.118.251:view_item:handle=123456789/6
+2016-02-03 18:41:06,003 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=F66FCF39DB20328BCED5C14A80F6F563:ip_addr=129.97.118.251:view_item:handle=123456789/6
+2016-02-03 18:41:06,101 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=68664D3A49716B8D0C40528F81632CAC:ip_addr=129.97.118.251:view_item:handle=123456789/6
+2016-02-03 18:41:06,193 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2016-02-03 18:41:06,199 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-02-03 18:41:06,209 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-02-03 18:41:06,203 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-02-03 18:41:06,229 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2016-02-03 18:41:06,234 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-02-03 18:41:06,235 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2016-02-03 18:41:06,220 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-02-03 18:41:07,046 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-misc.txt
+2016-02-03 18:41:07,155 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-infoseek.txt
+2016-02-03 18:41:08,247 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2016-02-03 18:41:08,706 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2016-02-03 18:41:08,713 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=7E8D1242299C0F371BB3C6E824EF6BF6:ip_addr=207.35.219.98:browse_mini:
+2016-02-03 18:41:08,814 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 18:41:08,873 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2016-02-03 18:41:08,985 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2016-02-03 18:41:09,007 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2016-02-03 18:41:09,070 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2016-02-03 18:41:09,877 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2016-02-03 18:41:10,005 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2016-02-03 18:41:10,812 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2016-02-03 18:41:10,812 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-non_engines.txt
+2016-02-03 18:41:10,814 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-altavista.txt
+2016-02-03 18:41:10,815 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-excite.txt
+2016-02-03 18:41:10,816 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-lycos.txt
+2016-02-03 18:41:10,849 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-inktomi.txt
+2016-02-03 18:41:10,928 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-google.txt
+2016-02-03 18:41:25,318 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=C305B06B35E810A24373C3380CFBE8AB:ip_addr=129.97.118.251:browse_mini:
+2016-02-03 18:41:25,856 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 18:41:53,058 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=2A7A89121D7B94E095CC58AA84D36FF0:ip_addr=129.97.118.251:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-02-03 18:41:54,311 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.AIPDIMCrosswalk", name="DIM"
+2016-02-03 18:41:54,311 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.AIPTechMDCrosswalk", name="AIP-TECHMD"
+2016-02-03 18:41:54,311 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.SimpleDCDisseminationCrosswalk", name="DC"
+2016-02-03 18:41:54,593 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.SimpleDCDisseminationCrosswalk", name="dc"
+2016-02-03 18:41:54,594 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.PREMISCrosswalk", name="PREMIS"
+2016-02-03 18:41:54,594 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.METSDisseminationCrosswalk", name="METS"
+2016-02-03 18:41:54,594 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.METSDisseminationCrosswalk", name="mets"
+2016-02-03 18:41:54,594 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.METSRightsCrosswalk", name="METSRIGHTS"
+2016-02-03 18:41:54,877 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.OREDisseminationCrosswalk", name="ore"
+2016-02-03 18:41:54,877 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.DIMDisseminationCrosswalk", name="dim"
+2016-02-03 18:41:54,878 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.RoleCrosswalk", name="DSPACE-ROLES"
+2016-02-03 18:41:54,878 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.MODSDisseminationCrosswalk", name="MODS"
+2016-02-03 18:41:54,878 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.MODSDisseminationCrosswalk", name="mods"
+2016-02-03 18:41:54,878 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.XSLTDisseminationCrosswalk", name="DataCite"
+2016-02-03 18:41:54,878 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.XSLTDisseminationCrosswalk", name="marc"
+2016-02-03 18:41:55,430 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.AIPDIMCrosswalk", name="DIM"
+2016-02-03 18:41:55,430 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.AIPTechMDCrosswalk", name="AIP-TECHMD"
+2016-02-03 18:41:55,431 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.SimpleDCDisseminationCrosswalk", name="DC"
+2016-02-03 18:41:55,701 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.SimpleDCDisseminationCrosswalk", name="dc"
+2016-02-03 18:41:55,702 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.PREMISCrosswalk", name="PREMIS"
+2016-02-03 18:41:55,702 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.METSDisseminationCrosswalk", name="METS"
+2016-02-03 18:41:55,702 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.METSDisseminationCrosswalk", name="mets"
+2016-02-03 18:41:55,702 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.METSRightsCrosswalk", name="METSRIGHTS"
+2016-02-03 18:41:55,985 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.OREDisseminationCrosswalk", name="ore"
+2016-02-03 18:41:55,985 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.DIMDisseminationCrosswalk", name="dim"
+2016-02-03 18:41:55,986 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.RoleCrosswalk", name="DSPACE-ROLES"
+2016-02-03 18:41:55,986 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.MODSDisseminationCrosswalk", name="MODS"
+2016-02-03 18:41:55,986 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.MODSDisseminationCrosswalk", name="mods"
+2016-02-03 18:41:55,986 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.XSLTDisseminationCrosswalk", name="DataCite"
+2016-02-03 18:41:55,986 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.XSLTDisseminationCrosswalk", name="marc"
+2016-02-03 18:41:57,857 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.AIPDIMCrosswalk", name="DIM"
+2016-02-03 18:41:57,857 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.AIPTechMDCrosswalk", name="AIP-TECHMD"
+2016-02-03 18:41:57,857 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.SimpleDCDisseminationCrosswalk", name="DC"
+2016-02-03 18:41:58,117 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.SimpleDCDisseminationCrosswalk", name="dc"
+2016-02-03 18:41:58,117 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.PREMISCrosswalk", name="PREMIS"
+2016-02-03 18:41:58,117 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.METSDisseminationCrosswalk", name="METS"
+2016-02-03 18:41:58,117 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.METSDisseminationCrosswalk", name="mets"
+2016-02-03 18:41:58,385 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.METSRightsCrosswalk", name="METSRIGHTS"
+2016-02-03 18:41:58,385 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.OREDisseminationCrosswalk", name="ore"
+2016-02-03 18:41:58,385 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.DIMDisseminationCrosswalk", name="dim"
+2016-02-03 18:41:58,385 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.RoleCrosswalk", name="DSPACE-ROLES"
+2016-02-03 18:41:58,652 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.MODSDisseminationCrosswalk", name="MODS"
+2016-02-03 18:41:58,652 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.MODSDisseminationCrosswalk", name="mods"
+2016-02-03 18:41:58,652 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.XSLTDisseminationCrosswalk", name="DataCite"
+2016-02-03 18:41:58,652 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.XSLTDisseminationCrosswalk", name="marc"
+2016-02-03 18:42:05,209 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:789)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at java.lang.AbstractStringBuilder.<init>(AbstractStringBuilder.java:64)
+	at java.lang.StringBuffer.<init>(StringBuffer.java:108)
+	at org.apache.xml.utils.FastStringBuffer.getString(FastStringBuffer.java:868)
+	at org.apache.xpath.objects.XStringForFSB.str(XStringForFSB.java:139)
+	at org.apache.xpath.objects.XObject.toString(XObject.java:306)
+	at org.apache.xpath.objects.XNodeSet.str(XNodeSet.java:273)
+	at org.apache.xpath.functions.FuncTranslate.execute(FuncTranslate.java:44)
+	at org.apache.xpath.Expression.executeCharsToContentHandler(Expression.java:311)
+	at org.apache.xalan.templates.ElemValueOf.execute(ElemValueOf.java:272)
+	at org.apache.xalan.transformer.TransformerImpl.executeChildTemplates(TransformerImpl.java:2411)
+	at org.apache.xalan.templates.ElemLiteralResult.execute(ElemLiteralResult.java:1374)
+	at org.apache.xalan.transformer.TransformerImpl.executeChildTemplates(TransformerImpl.java:2411)
+	at org.apache.xalan.templates.ElemLiteralResult.execute(ElemLiteralResult.java:1374)
+	at org.apache.xalan.templates.ElemApplyTemplates.transformSelectedNodes(ElemApplyTemplates.java:393)
+	at org.apache.xalan.templates.ElemApplyTemplates.execute(ElemApplyTemplates.java:176)
+	at org.apache.xalan.transformer.TransformerImpl.executeChildTemplates(TransformerImpl.java:2411)
+	at org.apache.xalan.templates.ElemLiteralResult.execute(ElemLiteralResult.java:1374)
+	at org.apache.xalan.transformer.TransformerImpl.executeChildTemplates(TransformerImpl.java:2411)
+	at org.apache.xalan.templates.ElemLiteralResult.execute(ElemLiteralResult.java:1374)
+	at org.apache.xalan.templates.ElemApplyTemplates.transformSelectedNodes(ElemApplyTemplates.java:393)
+	at org.apache.xalan.templates.ElemApplyTemplates.execute(ElemApplyTemplates.java:176)
+	at org.apache.xalan.transformer.TransformerImpl.executeChildTemplates(TransformerImpl.java:2411)
+	at org.apache.xalan.transformer.TransformerImpl.applyTemplateToNode(TransformerImpl.java:2281)
+	at org.apache.xalan.transformer.TransformerImpl.transformNode(TransformerImpl.java:1367)
+	at org.apache.xalan.transformer.TransformerImpl.run(TransformerImpl.java:3458)
+	at org.apache.xalan.transformer.TransformerHandlerImpl.endDocument(TransformerHandlerImpl.java:406)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endDocument(AbstractXMLPipe.java:55)
+	at org.apache.cocoon.transformation.TraxTransformer.endDocument(TraxTransformer.java:563)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+2016-02-03 18:42:06,384 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at org.apache.xml.serializer.WriterToUTF8Buffered.<init>(WriterToUTF8Buffered.java:89)
+	at org.apache.xml.serializer.ToStream.init(ToStream.java:577)
+	at org.apache.xml.serializer.ToStream.setOutputStream(ToStream.java:689)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.createResultContentHandler(TransformerIdentityImpl.java:267)
+	at org.apache.xalan.transformer.TransformerIdentityImpl.startDocument(TransformerIdentityImpl.java:910)
+	at org.apache.cocoon.xml.AbstractXMLPipe.startDocument(AbstractXMLPipe.java:47)
+	at sun.reflect.GeneratedMethodAccessor109.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy32.startDocument(Unknown Source)
+	at org.dspace.app.xmlui.cocoon.DSpaceMETSGenerator.generate(DSpaceMETSGenerator.java:100)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy37.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.processXMLPipeline(AbstractProcessingPipeline.java:544)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:273)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:439)
+	at sun.reflect.GeneratedMethodAccessor117.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy28.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.getInputStream(SitemapSource.java:199)
+	at org.apache.cocoon.components.xslt.TraxProcessor.getInputSource(TraxProcessor.java:624)
+	at org.apache.cocoon.components.xslt.TraxProcessor.resolve(TraxProcessor.java:569)
+	at org.apache.xpath.SourceTreeManager.resolveURI(SourceTreeManager.java:125)
+	at org.apache.xalan.templates.FuncDocument.getDoc(FuncDocument.java:235)
+	at org.apache.xalan.templates.FuncDocument.execute(FuncDocument.java:192)
+2016-02-03 18:42:06,066 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.QDCCrosswalk", name="QDC"
+2016-02-03 18:42:06,705 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.QDCCrosswalk", name="qdc"
+2016-02-03 18:42:06,706 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.XHTMLHeadDisseminationCrosswalk", name="XHTML_HEAD_ITEM"
+2016-02-03 18:42:06,066 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.QDCCrosswalk", name="QDC"
+2016-02-03 18:42:06,706 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.QDCCrosswalk", name="qdc"
+2016-02-03 18:42:06,706 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.XHTMLHeadDisseminationCrosswalk", name="XHTML_HEAD_ITEM"
+2016-02-03 18:42:06,066 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.QDCCrosswalk", name="QDC"
+2016-02-03 18:42:06,706 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.QDCCrosswalk", name="qdc"
+2016-02-03 18:42:06,707 ERROR org.dspace.core.PluginManager @ Name collision in named plugin, implementation class="org.dspace.content.crosswalk.XHTMLHeadDisseminationCrosswalk", name="XHTML_HEAD_ITEM"
+2016-02-03 18:42:05,491 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at java.util.Arrays.copyOfRange(Arrays.java:2694)
+	at java.lang.String.<init>(String.java:203)
+	at java.lang.StringBuffer.toString(StringBuffer.java:561)
+	at org.apache.xml.utils.FastStringBuffer.getString(FastStringBuffer.java:868)
+	at org.apache.xpath.objects.XStringForFSB.str(XStringForFSB.java:139)
+	at org.apache.xpath.objects.XObject.toString(XObject.java:306)
+	at org.apache.xpath.objects.XNodeSet.str(XNodeSet.java:273)
+	at org.apache.xpath.functions.FuncTranslate.execute(FuncTranslate.java:44)
+	at org.apache.xpath.Expression.executeCharsToContentHandler(Expression.java:311)
+	at org.apache.xalan.templates.ElemValueOf.execute(ElemValueOf.java:272)
+	at org.apache.xalan.transformer.TransformerImpl.executeChildTemplates(TransformerImpl.java:2411)
+	at org.apache.xalan.templates.ElemLiteralResult.execute(ElemLiteralResult.java:1374)
+	at org.apache.xalan.transformer.TransformerImpl.executeChildTemplates(TransformerImpl.java:2411)
+	at org.apache.xalan.templates.ElemLiteralResult.execute(ElemLiteralResult.java:1374)
+	at org.apache.xalan.templates.ElemApplyTemplates.transformSelectedNodes(ElemApplyTemplates.java:393)
+	at org.apache.xalan.templates.ElemApplyTemplates.execute(ElemApplyTemplates.java:176)
+	at org.apache.xalan.transformer.TransformerImpl.executeChildTemplates(TransformerImpl.java:2411)
+	at org.apache.xalan.templates.ElemLiteralResult.execute(ElemLiteralResult.java:1374)
+	at org.apache.xalan.transformer.TransformerImpl.executeChildTemplates(TransformerImpl.java:2411)
+	at org.apache.xalan.templates.ElemLiteralResult.execute(ElemLiteralResult.java:1374)
+	at org.apache.xalan.templates.ElemApplyTemplates.transformSelectedNodes(ElemApplyTemplates.java:393)
+	at org.apache.xalan.templates.ElemApplyTemplates.execute(ElemApplyTemplates.java:176)
+	at org.apache.xalan.transformer.TransformerImpl.executeChildTemplates(TransformerImpl.java:2411)
+	at org.apache.xalan.transformer.TransformerImpl.applyTemplateToNode(TransformerImpl.java:2281)
+	at org.apache.xalan.transformer.TransformerImpl.transformNode(TransformerImpl.java:1367)
+	at org.apache.xalan.transformer.TransformerImpl.run(TransformerImpl.java:3458)
+	at org.apache.xalan.transformer.TransformerHandlerImpl.endDocument(TransformerHandlerImpl.java:406)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endDocument(AbstractXMLPipe.java:55)
+	at org.apache.cocoon.transformation.TraxTransformer.endDocument(TraxTransformer.java:563)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2016-02-03 18:42:07,314 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-02-03 18:42:07,385 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-02-03 18:42:07,468 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-02-03 18:42:07,484 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:update_eperson:eperson_id=1
+2016-02-03 18:42:07,484 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:login:type=explicit
+2016-02-03 18:42:07,475 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=2A7A89121D7B94E095CC58AA84D36FF0:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-02-03 18:42:08,205 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-02-03 18:42:08,209 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-02-03 18:42:08,225 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-02-03 18:42:08,300 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-02-03 18:42:09,514 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=2A7A89121D7B94E095CC58AA84D36FF0:ip_addr=129.97.118.251:update_eperson:eperson_id=1
+2016-02-03 18:42:09,514 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=2A7A89121D7B94E095CC58AA84D36FF0:ip_addr=129.97.118.251:login:type=explicit
+2016-02-03 18:42:09,814 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:view_community_list:
+2016-02-03 18:42:09,831 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:42:46,331 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:delete_workspace_item:workspace_item_id=2item_id=2collection_id=2
+2016-02-03 18:42:46,340 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:delete_item:item_id=2
+2016-02-03 18:42:46,389 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:delete_workspace_item:workspace_item_id=3item_id=3collection_id=2
+2016-02-03 18:42:46,391 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:delete_item:item_id=3
+2016-02-03 18:42:46,402 INFO  org.dspace.event.EventManager @ 
+2016-02-03 18:42:46,422 WARN  org.dspace.discovery.IndexEventConsumer @ got null detail on DELETE event, skipping it.
+2016-02-03 18:42:46,446 WARN  org.dspace.discovery.IndexEventConsumer @ MODIFY event, could not get object for ITEM id=2, perhaps it has been deleted.
+2016-02-03 18:42:46,446 WARN  org.dspace.discovery.IndexEventConsumer @ got null detail on DELETE event, skipping it.
+2016-02-03 18:42:46,447 WARN  org.dspace.discovery.IndexEventConsumer @ MODIFY event, could not get object for ITEM id=3, perhaps it has been deleted.
+2016-02-03 18:42:54,838 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:update_item:item_id=4
+2016-02-03 18:42:54,839 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:create_item:item_id=4
+2016-02-03 18:42:54,856 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:update_item:item_id=4
+2016-02-03 18:42:54,856 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:create_workspace_item:workspace_item_id=-1item_id=4collection_id=2
+2016-02-03 18:42:54,909 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:42:54,915 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:42:54,927 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:42:54,928 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:42:54,930 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:42:54,931 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:45:13,675 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:45:13,682 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:45:14,180 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:46:02,397 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:46:02,403 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:46:02,551 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:46:02,558 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:46:02,607 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:46:18,303 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=7E8D1242299C0F371BB3C6E824EF6BF6:ip_addr=207.35.219.98:browse_mini:
+2016-02-03 18:46:18,309 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 18:46:21,594 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=7E8D1242299C0F371BB3C6E824EF6BF6:ip_addr=207.35.219.98:browse_mini:
+2016-02-03 18:46:21,634 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 18:46:24,322 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:46:24,330 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:46:24,361 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:46:24,369 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:47:06,282 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:47:06,283 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:47:32,265 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:47:32,266 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:47:32,305 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:47:32,310 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:48:24,905 INFO  org.dspace.content.Bundle @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:create_bundle:bundle_id=3
+2016-02-03 18:48:24,906 INFO  org.dspace.content.Bundle @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_bundle:bundle_id=3
+2016-02-03 18:48:24,907 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:add_bundle:item_id=4,bundle_id=3
+2016-02-03 18:48:25,044 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:create_bitstream:bitstream_id=3
+2016-02-03 18:48:25,048 INFO  org.dspace.content.Bundle @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:add_bitstream:bundle_id=3,bitstream_id=3
+2016-02-03 18:48:25,058 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:add_bundle:item_id=4,bundle_id=3
+2016-02-03 18:48:25,061 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_bitstream:bitstream_id=3
+2016-02-03 18:48:25,062 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:48:25,063 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_bitstream:bitstream_id=3
+2016-02-03 18:48:25,074 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_bitstream:bitstream_id=3
+2016-02-03 18:48:25,388 ERROR org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter @ Problem in multipart filter. Unable to create request.
+org.apache.cocoon.servlet.multipart.MultipartException: Malformed stream
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartParser.parseMultiPart(DSpaceMultipartParser.java:174)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartParser.parseParts(DSpaceMultipartParser.java:102)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartParser.getParts(DSpaceMultipartParser.java:143)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceRequestFactory.getServletRequest(DSpaceRequestFactory.java:83)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:315)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2016-02-03 18:48:39,370 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:48:39,371 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:48:39,783 ERROR org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter @ Problem in multipart filter. Unable to create request.
+org.apache.cocoon.servlet.multipart.MultipartException: Malformed stream
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartParser.parseMultiPart(DSpaceMultipartParser.java:174)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartParser.parseParts(DSpaceMultipartParser.java:102)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartParser.getParts(DSpaceMultipartParser.java:143)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceRequestFactory.getServletRequest(DSpaceRequestFactory.java:83)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:315)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2016-02-03 18:48:46,797 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:48:46,798 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:48:46,830 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:49:02,721 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:49:02,723 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:49:03,411 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:49:03,412 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:49:03,412 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:49:03,455 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2016-02-03 18:49:08,706 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:49:08,707 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:49:11,308 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:49:11,314 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:49:15,573 ERROR org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter @ Problem in multipart filter. Unable to create request.
+org.apache.cocoon.servlet.multipart.MultipartException: Malformed stream
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartParser.parseMultiPart(DSpaceMultipartParser.java:174)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartParser.parseParts(DSpaceMultipartParser.java:102)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartParser.getParts(DSpaceMultipartParser.java:143)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceRequestFactory.getServletRequest(DSpaceRequestFactory.java:83)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:315)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2016-02-03 18:49:20,622 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:49:20,624 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:49:51,114 INFO  org.dspace.submit.step.LicenseStep @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:accept_license:workspace_item_id4
+2016-02-03 18:49:51,117 INFO  org.dspace.content.Bundle @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:create_bundle:bundle_id=4
+2016-02-03 18:49:51,117 INFO  org.dspace.content.Bundle @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_bundle:bundle_id=4
+2016-02-03 18:49:51,118 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:add_bundle:item_id=4,bundle_id=4
+2016-02-03 18:49:51,126 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:create_bitstream:bitstream_id=4
+2016-02-03 18:49:51,128 INFO  org.dspace.content.Bundle @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:add_bitstream:bundle_id=4,bitstream_id=4
+2016-02-03 18:49:51,133 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:add_bundle:item_id=4,bundle_id=4
+2016-02-03 18:49:51,134 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_bitstream:bitstream_id=4
+2016-02-03 18:49:51,137 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_workspace_item:workspace_item_id=4
+2016-02-03 18:49:51,138 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:49:51,138 INFO  org.dspace.content.Bitstream @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_bitstream:bitstream_id=4
+2016-02-03 18:49:51,144 INFO  org.dspace.submit.step.CompleteStep @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:submission_complete:Completed submission with id=4
+2016-02-03 18:49:51,144 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:start_workflow:workspace_item_id=4item_id=4collection_id=2
+2016-02-03 18:49:51,147 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:49:51,155 INFO  org.dspace.content.WorkspaceItem @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:delete_workspace_item:workspace_item_id=4item_id=4collection_id=2
+2016-02-03 18:49:51,206 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:archive_item:workflow_item_id=2item_id=4collection_id=2
+2016-02-03 18:49:51,209 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:49:51,216 INFO  org.dspace.content.Collection @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:add_item:collection_id=2,item_id=4
+2016-02-03 18:49:51,223 INFO  org.dspace.content.Item @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:update_item:item_id=4
+2016-02-03 18:49:51,236 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:install_item:workflow_id=2, item_id=4handle=FIXME
+2016-02-03 18:49:51,727 WARN  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:notifyOfArchive:cannot email user item_id=4
+2016-02-03 18:49:51,727 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:workflow_item:handle=123456789/7
+2016-02-03 18:49:51,759 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:advance_workflow:workflow_item_id=2,item_id=4,collection_id=2,old_state=6,new_state=7
+2016-02-03 18:49:51,759 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:workflow_item:handle=123456789/7
+2016-02-03 18:49:51,770 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:advance_workflow:workflow_item_id=2,item_id=4,collection_id=2,old_state=4,new_state=7
+2016-02-03 18:49:51,770 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:workflow_item:handle=123456789/7
+2016-02-03 18:49:51,777 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:advance_workflow:workflow_item_id=2,item_id=4,collection_id=2,old_state=2,new_state=7
+2016-02-03 18:49:51,778 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:workflow_item:handle=123456789/7
+2016-02-03 18:49:51,785 INFO  org.dspace.workflow.WorkflowManager @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:advance_workflow:workflow_item_id=2,item_id=4,collection_id=2,old_state=0,new_state=7
+2016-02-03 18:49:52,759 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/7 to Index
+2016-02-03 18:50:31,256 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:view_community_list:
+2016-02-03 18:50:33,790 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:view_collection:collection_id=2
+2016-02-03 18:50:33,915 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@6de24c6: 3
+2016-02-03 18:50:38,830 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:view_item:handle=123456789/7
+2016-02-03 18:50:38,932 INFO  org.dspace.app.util.GoogleMetadata @ Using [/dspace/config/crosswalks/google-metadata.properties] for Google Metadata configuration
+2016-02-03 18:50:55,948 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:view_bitstream:bitstream_id=3
+2016-02-03 18:51:13,727 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:view_community_list:
+2016-02-03 18:51:13,727 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:51:13,835 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:51:32,326 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:51:32,470 INFO  org.dspace.app.xmlui.aspect.discovery.AbstractSearch @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:search:query="null",results=(0,0,0)
+2016-02-03 18:51:32,613 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:51:45,215 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:51:45,317 INFO  org.dspace.app.xmlui.aspect.discovery.AbstractSearch @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:search:query="tony",results=(0,0,0)
+2016-02-03 18:51:45,465 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:52:09,196 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:view_community_list:
+2016-02-03 18:52:13,342 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:view_collection:collection_id=2
+2016-02-03 18:52:13,737 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@6de24c6: 3
+2016-02-03 18:58:08,317 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:view_community_list:
+2016-02-03 18:58:08,317 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 18:58:21,412 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:view_item:handle=123456789/7
+2016-02-03 18:58:36,330 INFO  org.dspace.browse.BrowseEngine @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:browse_by_value:focus=null
+2016-02-03 18:58:36,366 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@75528688
+2016-02-03 18:58:39,354 INFO  org.dspace.browse.BrowseEngine @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:browse_by_value:focus=null
+2016-02-03 18:58:39,366 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ y389wu@uwaterloo.ca:session_id=904819B31D35FE88C4F369C959A1BFCE:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@39e30757
+2016-02-03 19:28:07,393 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=945CD485684A04C34228465D8741C46F:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 19:28:07,450 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 19:28:07,737 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 19:28:07,776 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 19:57:12,586 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 19:57:12,612 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 19:57:12,905 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 19:57:12,928 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 19:58:21,463 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 19:58:21,485 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:04:11,869 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:04:11,897 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:07:56,653 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:07:56,682 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:08:02,929 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:08:02,966 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:09:24,204 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:09:24,248 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:09:24,609 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:09:24,644 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:09:43,181 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:view_community_list:
+2016-02-03 20:10:54,823 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:10:54,838 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:10:57,190 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:10:57,224 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:13:47,417 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:13:47,446 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:17:12,243 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:17:12,270 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:21:27,023 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:21:27,035 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:23:03,194 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2016-02-03 20:23:03,444 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2016-02-03 20:23:03,444 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2016-02-03 20:23:03,444 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2016-02-03 20:23:03,444 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2016-02-03 20:23:03,444 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2016-02-03 20:23:03,444 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2016-02-03 20:23:03,444 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2016-02-03 20:23:03,444 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2016-02-03 20:23:03,445 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2016-02-03 20:23:49,318 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:23:49,321 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:23:49,964 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:23:49,965 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:23:50,539 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2016-02-03 20:23:50,557 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2016-02-03 20:27:21,584 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:27:21,615 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:27:28,231 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:27:28,251 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:30:02,775 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:30:02,788 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:30:04,957 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:30:04,976 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:30:12,123 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:30:12,144 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:30:44,572 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:30:44,586 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:32:09,070 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:32:09,092 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:32:09,422 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:32:09,446 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:37:02,688 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=50F4D40B868B96B1D5F1250BDAED6316:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 20:37:02,703 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 20:57:23,006 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=1FA1F51FD39611D28CC7A4FA00A9DB7A:ip_addr=129.97.118.251:view_community_list:
+2016-02-03 20:57:32,187 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=1FA1F51FD39611D28CC7A4FA00A9DB7A:ip_addr=129.97.118.251:view_collection:collection_id=2
+2016-02-03 20:57:32,202 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2016-02-03 20:57:32,202 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost:8080/solr/statistics
+2016-02-03 20:57:32,202 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/dspace/config/GeoLiteCity.dat
+2016-02-03 20:57:32,946 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2016-02-03 20:57:32,950 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-02-03 20:57:33,050 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-misc.txt
+2016-02-03 20:57:33,059 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-infoseek.txt
+2016-02-03 20:57:33,844 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2016-02-03 20:57:34,004 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2016-02-03 20:57:34,136 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2016-02-03 20:57:34,227 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2016-02-03 20:57:34,357 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2016-02-03 20:57:34,374 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2016-02-03 20:57:35,121 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2016-02-03 20:57:35,121 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-non_engines.txt
+2016-02-03 20:57:35,137 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-altavista.txt
+2016-02-03 20:57:35,141 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-excite.txt
+2016-02-03 20:57:35,143 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-lycos.txt
+2016-02-03 20:57:35,156 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-inktomi.txt
+2016-02-03 20:57:35,163 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-google.txt
+2016-02-03 20:57:35,164 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2016-02-03 20:57:35,985 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@6de24c6: 3
+2016-02-03 20:57:36,267 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2016-02-03 20:57:36,284 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2016-02-03 20:57:36,562 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=1FA1F51FD39611D28CC7A4FA00A9DB7A:ip_addr=129.97.118.251:view_collection:collection_id=2
+2016-02-03 20:57:36,624 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@6de24c6: 3
+2016-02-03 20:57:39,283 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=1FA1F51FD39611D28CC7A4FA00A9DB7A:ip_addr=129.97.118.251:view_item:handle=123456789/7
+2016-02-03 21:04:52,840 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=A82C2319D1C8B51E81C70CEC441F59D9:ip_addr=129.97.118.251:browse_mini:
+2016-02-03 21:04:52,853 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 21:09:49,856 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=1D56986103C5CACBD3CC32F4E18E79F4:ip_addr=129.97.124.190:browse_mini:
+2016-02-03 21:09:49,874 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-03 21:24:46,989 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=2803AABFA26C2C33B35474AEB544F4CA:ip_addr=129.97.124.190:view_community_list:
+2016-02-03 21:24:46,992 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-03 21:32:14,676 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=BAD4A013270F1A61EC33AC7BBA487DC0:ip_addr=129.97.124.189:browse_mini:
+2016-02-03 21:32:14,695 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3

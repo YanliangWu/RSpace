@@ -1,0 +1,13 @@
+2016-02-16 00:20:02,032 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=1F6826F66EC525A6696F8BE33100FEA9:ip_addr=135.0.27.200:view_community_list:
+2016-02-16 18:12:33,850 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E7B55C48031CD80AD0BA3F3EEC02E2AF:ip_addr=129.97.118.251:view_community_list:
+2016-02-16 19:55:19,425 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=8832E9195547F9F58ABAE2AEEA268166:ip_addr=129.97.118.132:view_community_list:
+2016-02-16 20:51:32,608 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=DC37F3882D1FC30EBB0FE4D44BC4C1DF:ip_addr=129.97.118.251:view_community_list:
+2016-02-16 20:51:41,213 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=7A1707DD65679D0C789C788833A157BC:ip_addr=129.97.118.251:view_community_list:
+2016-02-16 20:51:41,213 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-16 21:23:24,152 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=C55F93E97CF43B41058E434D65FE24E9:ip_addr=64.233.172.160:view_community_list:
+2016-02-16 22:22:15,552 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=1BFD22DDEEAF31E1E451FC3E23C02089:ip_addr=207.35.219.98:browse_mini:
+2016-02-16 22:22:15,572 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-16 22:22:19,086 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=68683435CAE1A768C9A779DB02EE24F1:ip_addr=207.35.219.98:view_community_list:
+2016-02-16 22:22:19,086 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-16 22:22:20,154 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=D11F9080191DE4A508D6922BEE3AAC3E:ip_addr=207.35.219.98:view_community_list:
+2016-02-16 22:22:20,155 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3

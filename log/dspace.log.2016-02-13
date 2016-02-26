@@ -1,0 +1,70 @@
+2016-02-13 00:34:51,532 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=2ABDDCABD826166A3E27EDFFB9E15C49:ip_addr=207.35.219.98:browse_mini:
+2016-02-13 00:34:51,546 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-13 00:34:52,146 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=BC9B9A53E094EA8579D2168520931C97:ip_addr=207.35.219.98:browse_mini:
+2016-02-13 00:34:52,154 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-13 00:34:54,253 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=F0AB7B546C4FE7BC60E24CB645C3AB57:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:34:54,253 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:34:54,900 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:34:54,900 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:38:40,099 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:38:40,100 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:42:50,431 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:42:50,431 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:42:57,241 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:42:57,241 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:43:00,636 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:43:00,637 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:43:21,867 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:43:21,868 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:45:23,407 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:45:23,408 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:45:27,516 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:45:27,516 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:46:59,707 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:46:59,707 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:47:53,793 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:47:53,794 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:48:21,023 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:48:21,023 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:48:52,803 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:48:52,803 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:49:28,726 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:49:28,727 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:49:40,557 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=BC9B9A53E094EA8579D2168520931C97:ip_addr=207.35.219.98:browse_mini:
+2016-02-13 00:49:40,565 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-13 00:51:03,997 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:51:03,998 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:53:27,715 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:53:27,715 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:53:43,648 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:53:43,649 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:55:42,417 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:55:42,417 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 00:56:13,262 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 00:56:13,262 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 01:03:26,754 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 01:03:26,755 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 01:03:31,038 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 01:03:31,038 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 01:06:27,710 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 01:06:27,710 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 01:06:31,374 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 01:06:31,374 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 01:06:49,056 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 01:06:49,056 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 01:06:50,102 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 01:06:50,128 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 01:06:56,767 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=8B4C8F57493C714325B26D2FAF3458B2:ip_addr=207.35.219.98:browse_mini:
+2016-02-13 01:06:56,773 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-13 01:07:00,219 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5F7042B4A092941B0A1A3CBE2EDC9FFF:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 01:07:00,219 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 01:07:00,779 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=0B0074B03DA0B0F4FACBF72426B24C79:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 01:07:00,779 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 01:07:28,765 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 01:07:28,765 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 01:09:16,830 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 01:09:16,830 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 01:10:54,304 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E371B13428B0ACC220EC1E190CB68419:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 01:10:54,304 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-02-13 01:42:08,687 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=0C727E6DF6FDB0A42A2FDF69F90D7F33:ip_addr=207.35.219.98:view_community_list:
+2016-02-13 01:42:08,687 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3

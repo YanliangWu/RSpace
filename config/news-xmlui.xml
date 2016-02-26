@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document xmlns="http://di.tamu.edu/DRI/1.0/" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.1">
+<body>
+<div id="file.news.div.news" n="news" rend="primary">
+<head>RSpace Repository</head>
+
+
+
+
+<p>
+RSpace is an open access repository provided by the <xref target="https://uwaterloo.ca/renison/lusi-wong-library">Lusi Wong Library</xref> for scholarly research produced by members of the <xref target="https://uwaterloo.ca/renison/">Renison University College</xref> community. RSpace collects, preserves, and disseminates the digital scholarly output of Renison University College faculty, staff and researchers. RSpace provides long term preservation of digital research and continual updating of formats. The purpose of RSpace is to make the university college output accessible to a wider audience than traditional forms of distribution. By sharing this content globally through the Internet, the university supports open access, open scholarly communication, collaborative research, and lasting visibility and recognition for scholarship at Renison.</p> 
+<p>
+RSpace is a service of the Lusi Wong Library for the benefit of Renison Faculty and Staff. If you have any questions or concerns please email <xref target="mailto:tony.tin@uwaterloo.ca">tony.tin@uwaterloo.ca</xref>
+</p>
+</div>
+</body>
+<options/>
+<meta>
+<userMeta/>
+<pageMeta/>
+<repositoryMeta/>
+</meta>
+</document>

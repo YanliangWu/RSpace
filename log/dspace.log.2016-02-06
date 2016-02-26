@@ -1,0 +1,45 @@
+2016-02-06 02:39:34,508 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=FD89A4ABB88790647C6382A1EAD7B772:ip_addr=184.151.178.202:view_community_list:
+2016-02-06 02:39:47,417 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=831B9741F093213AD525F08FF3D5FD0D:ip_addr=184.151.178.202:view_collection:collection_id=12
+2016-02-06 02:39:47,524 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@2f036270: 3
+2016-02-06 02:39:48,279 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=1A4BC05978CD7C27E24BAE17B31E83E3:ip_addr=184.151.178.202:view_bitstream:bitstream_id=10
+2016-02-06 02:40:00,927 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=A0ACBD57CCB8562B752639D726479394:ip_addr=184.151.178.202:view_item:handle=123456789/32
+2016-02-06 02:40:17,172 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=A7013FE05E14972B8AF1A1B7E6A38699:ip_addr=184.151.178.202:view_collection:collection_id=12
+2016-02-06 02:40:17,192 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@2f036270: 3
+2016-02-06 17:41:27,370 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=850D5ECFD4210B88941EB2E8DE665296:ip_addr=209.171.88.230:view_community_list:
+2016-02-06 17:41:53,508 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=850D5ECFD4210B88941EB2E8DE665296:ip_addr=209.171.88.230:view_collection:collection_id=12
+2016-02-06 17:41:53,612 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@2f036270: 3
+2016-02-06 17:41:54,327 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=850D5ECFD4210B88941EB2E8DE665296:ip_addr=209.171.88.230:view_bitstream:bitstream_id=10
+2016-02-06 17:42:27,661 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=850D5ECFD4210B88941EB2E8DE665296:ip_addr=209.171.88.230:view_collection:collection_id=12
+2016-02-06 17:42:27,722 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@2f036270: 3
+2016-02-06 20:14:00,740 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=FA1C117383E0F3D9F7F9D225C8BC58F3:ip_addr=72.142.18.42:browse_mini:
+2016-02-06 20:14:00,760 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-02-06 20:14:11,147 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ anonymous:session_id=FA1C117383E0F3D9F7F9D225C8BC58F3:ip_addr=72.142.18.42:view_community_list:
+2016-02-06 20:14:11,614 INFO  org.dspace.app.webui.servlet.RetrieveServlet @ anonymous:session_id=FA1C117383E0F3D9F7F9D225C8BC58F3:ip_addr=72.142.18.42:view_bitstream:bitstream_id=10
+2016-02-06 20:14:11,616 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=FA1C117383E0F3D9F7F9D225C8BC58F3:ip_addr=72.142.18.42:view_bitstream:bitstream_id=10
+2016-02-06 20:14:12,034 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2016-02-06 20:14:12,034 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost:8080/solr/statistics
+2016-02-06 20:14:12,035 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/dspace/config/GeoLiteCity.dat
+2016-02-06 20:14:12,063 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2016-02-06 20:14:12,067 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-02-06 20:14:12,089 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-misc.txt
+2016-02-06 20:14:12,091 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-infoseek.txt
+2016-02-06 20:14:12,776 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2016-02-06 20:14:12,928 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2016-02-06 20:14:13,121 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2016-02-06 20:14:13,209 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2016-02-06 20:14:13,462 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2016-02-06 20:14:13,484 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2016-02-06 20:14:13,832 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=FA1C117383E0F3D9F7F9D225C8BC58F3:ip_addr=72.142.18.42:view_collection:collection_id=13
+2016-02-06 20:14:13,834 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=FA1C117383E0F3D9F7F9D225C8BC58F3:ip_addr=72.142.18.42:browse_by_item:
+2016-02-06 20:14:13,855 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@11b8d3c: 3
+2016-02-06 20:14:13,874 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=FA1C117383E0F3D9F7F9D225C8BC58F3:ip_addr=72.142.18.42:view_collection:collection_id=13
+2016-02-06 20:14:13,876 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2016-02-06 20:14:14,221 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2016-02-06 20:14:14,241 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-non_engines.txt
+2016-02-06 20:14:14,244 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-altavista.txt
+2016-02-06 20:14:14,245 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-excite.txt
+2016-02-06 20:14:14,246 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-lycos.txt
+2016-02-06 20:14:14,260 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-inktomi.txt
+2016-02-06 20:14:14,268 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-google.txt
+2016-02-06 20:14:29,159 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=FA1C117383E0F3D9F7F9D225C8BC58F3:ip_addr=72.142.18.42:browse_mini:
+2016-02-06 20:14:29,174 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
