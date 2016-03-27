@@ -18,7 +18,7 @@ fieldset {
 div#ds-main {
         position: relative;
         margin-top: 5px;
-        width: 750px;
+        width: 810px;
         color: inherit;
         background-color: white;
         margin-left: auto;
@@ -38,10 +38,10 @@ div#ds-header a {
 }
 
 div#ds-header  a span#ds-header-logo {
-        width: 190px;
-        height: 80px;
+        width: 850px;
+        height: 100px;
         float: right;
-        background-image: url("../images/manakin_logo.png");
+        background-image: url("../images/banner.jpg");
         background-repeat: no-repeat;
         background-position: 85% 40%;
         color: inherit;
@@ -54,7 +54,7 @@ div#ds-header h1,div#ds-header h2 {
 
 ul#ds-trail {
         position: relative;
-        margin-top: 80px;
+        margin-top: 100px;
         margin-bottom: 0px;
         padding: 3px;
         margin-left: 0;
@@ -89,6 +89,7 @@ div#ds-user-box {
         top: 10px;
         left: 12px;
         text-align: left;
+	display:none;
 }
 
 div#ds-user-box p {
@@ -107,16 +108,18 @@ div#ds-user-box a {
         height: 12px;
         padding: 0px;
         margin: 0px;
+	display: none;
 }
 
 div#ds-user-box a:hover {
         text-decoration: underline;
+	display:none;
 }
 
 div#ds-body {
         position: relative;
         float: left;
-        width: 592px;
+        width: 600px;
         clear: left;
         color: inherit;
         background-color: rgb(255, 255, 253);

@@ -1,0 +1,7 @@
+2016-03-13 01:46:03,318 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=A4FA5EEF7FA4DE9453B596206920FB57:ip_addr=209.171.88.84:view_community_list:
+2016-03-13 01:46:10,356 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=07BA39B37E9C06B4E45F14EA450C7957:ip_addr=209.171.88.84:view_community:community_id=12
+2016-03-13 01:46:10,496 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@281: 3
+2016-03-13 01:46:19,342 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=3DB202EA5E52AE6982172D7582D1DF13:ip_addr=209.171.88.84:view_item:handle=123456789/41
+2016-03-13 01:46:41,355 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=F1737DE78F6687D0D63EF66466D5688B:ip_addr=209.171.88.84:view_community:community_id=12
+2016-03-13 01:46:41,419 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@281: 3
+2016-03-13 01:46:42,636 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=00E726BD33CAD144A4AB9D271D7481FC:ip_addr=209.171.88.84:view_community_list:

@@ -1,0 +1,4 @@
+2016-03-16 22:42:40,047 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=93650C8FB99F5AAC2F580EEF5D69FBC5:ip_addr=72.142.18.42:browse_mini:
+2016-03-16 22:42:40,077 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-03-16 22:50:14,987 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=93650C8FB99F5AAC2F580EEF5D69FBC5:ip_addr=72.142.18.42:browse_mini:
+2016-03-16 22:50:15,034 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3

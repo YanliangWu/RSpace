@@ -1,0 +1,118 @@
+2016-03-01 03:51:11,214 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2016-03-01 03:51:11,433 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2016-03-01 03:51:11,433 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2016-03-01 03:51:11,433 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2016-03-01 03:51:11,434 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2016-03-01 03:51:11,434 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2016-03-01 03:51:11,434 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2016-03-01 03:51:11,434 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2016-03-01 03:51:11,434 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2016-03-01 03:51:11,434 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Default Reference Theme', path='Reference/', id='null', regex='.*', handle='null'.
+2016-03-01 04:14:14,867 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=EFA2E6780BCCCC172344CB206C53DCD4:ip_addr=207.35.219.98:browse_mini:
+2016-03-01 04:14:15,672 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-03-01 04:14:16,052 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2016-03-01 04:14:16,099 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2016-03-01 04:14:20,418 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=D9E0A71A93C8CCA1B1775F3CD1E9AE15:ip_addr=207.35.219.98:view_community_list:
+2016-03-01 04:14:20,431 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 04:14:21,190 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2016-03-01 04:14:21,222 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2016-03-01 05:30:01,520 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5CF0AD8904D786E1E1149E0A182CEA1D:ip_addr=207.35.219.98:view_community_list:
+2016-03-01 05:30:01,520 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 15:55:06,986 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=F50727D4ACF730BA3DB85253D1FA510E:ip_addr=129.97.118.251:view_community_list:
+2016-03-01 15:55:10,453 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=F50727D4ACF730BA3DB85253D1FA510E:ip_addr=129.97.118.251:view_community_list:
+2016-03-01 15:55:10,454 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 18:46:18,990 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=FDF8E5CD995F0D55ED66B6159F1040F1:ip_addr=129.97.118.251:view_community_list:
+2016-03-01 18:47:07,196 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_community_list:
+2016-03-01 18:47:07,197 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 18:47:22,624 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-01 18:47:22,669 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-03-01 18:47:22,673 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:update_eperson:eperson_id=1
+2016-03-01 18:47:22,674 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:login:type=explicit
+2016-03-01 18:47:22,965 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_community_list:
+2016-03-01 18:47:22,966 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 18:47:55,152 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_community:community_id=8
+2016-03-01 18:47:55,169 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2016-03-01 18:47:55,169 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost:8080/solr/statistics
+2016-03-01 18:47:55,169 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/dspace/config/GeoLiteCity.dat
+2016-03-01 18:47:55,271 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2016-03-01 18:47:55,281 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-03-01 18:47:55,405 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-misc.txt
+2016-03-01 18:47:55,411 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-infoseek.txt
+2016-03-01 18:47:56,478 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2016-03-01 18:47:56,616 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2016-03-01 18:47:56,732 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2016-03-01 18:47:56,925 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2016-03-01 18:47:57,040 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2016-03-01 18:47:57,083 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2016-03-01 18:47:57,885 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_community:community_id=8
+2016-03-01 18:47:57,890 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2016-03-01 18:47:57,938 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2016-03-01 18:47:57,938 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-non_engines.txt
+2016-03-01 18:47:57,940 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-altavista.txt
+2016-03-01 18:47:57,941 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-excite.txt
+2016-03-01 18:47:57,942 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-lycos.txt
+2016-03-01 18:47:57,948 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-inktomi.txt
+2016-03-01 18:47:57,955 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-google.txt
+2016-03-01 18:47:58,363 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@27d: 3
+2016-03-01 18:47:58,364 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@27d: 3
+2016-03-01 18:48:01,398 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_collection:collection_id=17
+2016-03-01 18:48:01,450 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@2a1be7f7: 3
+2016-03-01 18:48:20,160 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_item:handle=123456789/31
+2016-03-01 18:48:42,738 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_item:handle=123456789/32
+2016-03-01 18:49:07,811 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_collection:collection_id=16
+2016-03-01 18:49:08,368 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ca089ac2: 3
+2016-03-01 18:49:08,892 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_bitstream:bitstream_id=13
+2016-03-01 18:49:28,711 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-01 18:49:28,723 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-03-01 18:49:28,729 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:update_eperson:eperson_id=1
+2016-03-01 18:49:28,729 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:login:type=explicit
+2016-03-01 18:49:29,279 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_community_list:
+2016-03-01 18:49:29,280 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 18:49:34,900 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_community:community_id=11
+2016-03-01 18:49:34,971 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@280: 3
+2016-03-01 18:49:50,844 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_community_list:
+2016-03-01 18:49:50,844 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 18:50:01,161 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_community:community_id=11
+2016-03-01 18:50:01,620 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@280: 3
+2016-03-01 18:51:34,461 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_community_list:
+2016-03-01 18:51:34,462 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 18:51:47,533 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=A27F883134A5A2C910A30F904EF8C892:ip_addr=129.97.118.251:view_item:handle=123456789/32
+2016-03-01 18:55:00,503 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=2609B87EAAC5509803932F01751A3444:ip_addr=129.97.124.118:browse_mini:
+2016-03-01 18:55:00,542 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-03-01 18:55:04,517 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=6568FAA99C64FCD6E41F9F168D3B57C6:ip_addr=129.97.124.118:view_community_list:
+2016-03-01 18:55:04,517 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 18:55:05,017 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_community_list:
+2016-03-01 18:55:05,018 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 18:55:08,942 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 18:55:09,153 INFO  org.dspace.app.xmlui.aspect.discovery.AbstractSearch @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:search:query="null",results=(0,0,0)
+2016-03-01 18:55:15,152 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_item:handle=123456789/31
+2016-03-01 18:55:31,373 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-01 18:55:31,378 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:authenticate:type=PasswordAuthentication
+2016-03-01 18:55:31,379 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:update_eperson:eperson_id=1
+2016-03-01 18:55:31,379 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:login:type=explicit
+2016-03-01 18:55:31,575 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_community_list:
+2016-03-01 18:55:31,575 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 18:55:53,552 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_community_list:
+2016-03-01 18:55:53,553 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 18:56:00,801 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_community_list:
+2016-03-01 18:56:03,837 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_collection:collection_id=9
+2016-03-01 18:56:03,915 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@40ac7352: 3
+2016-03-01 18:56:05,817 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_community:community_id=8
+2016-03-01 18:56:06,225 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@27d: 3
+2016-03-01 18:56:07,562 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_collection:collection_id=12
+2016-03-01 18:56:07,632 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@3063391d: 3
+2016-03-01 18:56:08,380 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_bitstream:bitstream_id=10
+2016-03-01 18:56:20,717 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_item:handle=123456789/32
+2016-03-01 18:56:25,586 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_community_list:
+2016-03-01 18:56:25,587 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 18:56:49,904 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_item:handle=123456789/31
+2016-03-01 18:56:56,625 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_item:handle=123456789/31
+2016-03-01 18:56:56,721 INFO  org.dspace.app.util.GoogleMetadata @ Using [/dspace/config/crosswalks/google-metadata.properties] for Google Metadata configuration
+2016-03-01 18:57:13,717 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-01 18:57:13,722 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:authenticate:type=PasswordAuthentication
+2016-03-01 18:57:13,722 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:update_eperson:eperson_id=1
+2016-03-01 18:57:13,722 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:login:type=explicit
+2016-03-01 18:57:14,233 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=04D2759D1F3BFEE54ECC38B65C7BC749:ip_addr=129.97.124.118:view_community_list:
+2016-03-01 18:57:14,233 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-01 19:57:18,868 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9000E4ECD0A45AFFF5F63C054B024F44:ip_addr=129.97.118.251:view_community_list:
+2016-03-01 19:57:18,869 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3

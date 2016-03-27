@@ -1,0 +1,69 @@
+2016-03-27 22:58:33,030 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-file-jndi:/localhost/xmlui/aspects/protodocument.xml
+2016-03-27 22:58:33,034 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/9/?pipelinehash=-3983196624749804755_T-Navigation-2889329121926730469_T-Include-resource://aspects/ViewArtifacts/dspace-home.xml_T-Include-file:///dspace/config/news-xmlui.xml
+2016-03-27 22:58:33,035 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/8/?pipelinehash=-4819492480949584968_T-Navigation-2889329121926730469_T-CommunityBrowser-578614924677317992
+2016-03-27 22:58:33,038 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/7/?pipelinehash=-2561421707909197964_T-Navigation-2889329121926730469_T-SidebarFacetsTransformer-0_T-FrontPageFeeds-1_T-SiteRecentSubmissions-0
+2016-03-27 22:58:33,115 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/6/?pipelinehash=8253717832978351127_T-SystemwideAlerts-1_T-Navigation--5367372201529954577
+2016-03-27 22:58:33,115 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/5/?pipelinehash=-3843490224295302062
+2016-03-27 22:58:33,115 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/4/
+2016-03-27 22:58:33,115 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/3/
+2016-03-27 22:58:33,115 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/2/
+2016-03-27 22:58:33,115 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/1/_T-PageNotFound--2223765811167872118
+2016-03-27 22:58:33,129 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-file-cocoon://DRI/_T-IncludePageMeta-8938453325202951605_T-xslt-jndi:/localhost/xmlui/themes/dri2xhtml.xsl_T-i18n-context://i18n/?en_US__T-NamespaceFilter-http://di.tamu.edu/DRI/1.0/_T-NamespaceFilter-http://apache.org/cocoon/i18n/2.1_S-xhtml-;doctype-public=-//W3C//DTD XHTML 1.0 Strict//EN;doctype-system=http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd;encoding=UTF-8;indent=yes
+2016-03-27 22:58:33,154 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,155 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Workflow/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,156 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Workflow/i18n/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,156 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Statistics/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,161 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Statistics/i18n/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,162 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Submission/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,163 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Submission/i18n/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,165 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/EPerson/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,166 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/EPerson/i18n/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,167 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Administrative/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,168 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Administrative/i18n/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,173 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Discovery/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,174 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Discovery/i18n/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,178 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/BrowseArtifacts/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,179 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/BrowseArtifacts/i18n/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,182 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/ViewArtifacts/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,183 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/ViewArtifacts/i18n/messages_en_US.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,568 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,568 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Workflow/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,569 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Workflow/i18n/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,570 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Statistics/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,571 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Statistics/i18n/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,571 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Submission/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,572 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Submission/i18n/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,572 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/EPerson/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,573 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/EPerson/i18n/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,574 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Administrative/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,574 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Administrative/i18n/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,575 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Discovery/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,576 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Discovery/i18n/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,576 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/BrowseArtifacts/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,577 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/BrowseArtifacts/i18n/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,578 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/ViewArtifacts/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,578 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/ViewArtifacts/i18n/messages_en.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,580 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Workflow/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,580 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Workflow/i18n/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,581 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Statistics/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,582 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Statistics/i18n/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,582 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Submission/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,583 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Submission/i18n/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,584 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/EPerson/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,584 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/EPerson/i18n/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,585 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Administrative/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,585 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Administrative/i18n/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,586 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/Discovery/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,587 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/BrowseArtifacts/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,588 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/BrowseArtifacts/i18n/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,588 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///dspace/webapps/xmlui/i18n/aspects/ViewArtifacts/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,589 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/ViewArtifacts/i18n/messages.xml> not loaded: Source URI not found
+2016-03-27 22:58:33,654 INFO  cocoon.access  - '' Processed by Apache Cocoon in 653 milliseconds.
+2016-03-27 22:58:33,830 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-resource-jndi:/localhost/xmlui/themes/Reference/lib/style.css
+2016-03-27 22:58:33,854 INFO  cocoon.access  - 'themes/Reference/lib/style.css' Processed by Apache Cocoon in 29 milliseconds.
+2016-03-27 22:58:33,876 INFO  cocoon.access  - 'themes/Reference/lib/jquery-ui-1.8.15.custom.css' Processed by Apache Cocoon in 15 milliseconds.
+2016-03-27 22:58:33,877 INFO  cocoon.access  - 'themes/Reference/lib/jquery-1.6.2.min.js' Processed by Apache Cocoon in 11 milliseconds.
+2016-03-27 22:58:33,926 INFO  cocoon.access  - 'themes/Reference/lib/jquery-ui-1.8.15.custom.min.js' Processed by Apache Cocoon in 9 milliseconds.
+2016-03-27 22:58:34,411 INFO  cocoon.access  - 'themes/Reference/images/banner.jpg' Processed by Apache Cocoon in 329 milliseconds.
+2016-03-27 22:58:34,413 INFO  cocoon.access  - 'themes/Reference/images/di_logo.jpg' Processed by Apache Cocoon in 11 milliseconds.
+2016-03-27 22:58:34,414 INFO  cocoon.access  - 'static/icons/feed.png' Processed by Apache Cocoon in 8 milliseconds.

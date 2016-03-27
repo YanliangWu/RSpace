@@ -1,0 +1,2 @@
+2016-03-27 22:58:33,037 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=F89DEBED6E0439F3F361071A80C88A17:ip_addr=207.35.219.98:view_community_list:
+2016-03-27 22:58:33,038 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3

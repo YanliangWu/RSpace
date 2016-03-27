@@ -1,0 +1,1167 @@
+2016-03-22 13:26:31,711 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=0F2F7639FF9E6B2D1B9448512FBD1081:ip_addr=129.97.118.251:view_community_list:
+2016-03-22 13:33:26,037 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=6864A23682836C99DEE751E58FA2A8A8:ip_addr=129.97.118.251:view_community_list:
+2016-03-22 14:17:34,359 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=163FBD36ADD8FEE921E0637BFD2A4BC3:ip_addr=199.7.157.101:view_community_list:
+2016-03-22 15:28:52,417 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=DDC0A91248B9E5FC98832A14F976A754:ip_addr=198.84.184.56:view_community_list:
+2016-03-22 15:29:00,668 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=DDC0A91248B9E5FC98832A14F976A754:ip_addr=198.84.184.56:view_community_list:
+2016-03-22 15:29:00,668 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 17:32:56,823 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=732A71774FB493FF47EBF2A4B9D8E0F6:ip_addr=129.97.124.188:browse_mini:
+2016-03-22 17:32:56,840 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-03-22 17:33:00,620 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=25E5F9867174D01AD27148EBB6A0DAF4:ip_addr=129.97.124.188:view_community_list:
+2016-03-22 17:33:00,620 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 17:33:01,547 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=00C072E69ECCA12BE97F6D3E82202398:ip_addr=129.97.124.188:view_community_list:
+2016-03-22 17:33:01,547 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 17:37:11,712 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=E9875C6B7B7B28692584A31B1FB74A27:ip_addr=129.97.118.251:view_community_list:
+2016-03-22 17:37:40,380 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=3D75356BEA1F13186D39C3A3AF35567E:ip_addr=129.97.118.251:authenticate:attempting password auth of user=tony.tin@uwaterloo.ca
+2016-03-22 17:37:40,389 INFO  org.dspace.authenticate.PasswordAuthentication @ tony.tin@uwaterloo.ca:session_id=3D75356BEA1F13186D39C3A3AF35567E:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-03-22 17:37:40,393 INFO  org.dspace.eperson.EPerson @ tony.tin@uwaterloo.ca:session_id=3D75356BEA1F13186D39C3A3AF35567E:ip_addr=129.97.118.251:update_eperson:eperson_id=2
+2016-03-22 17:37:40,393 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ tony.tin@uwaterloo.ca:session_id=3D75356BEA1F13186D39C3A3AF35567E:ip_addr=129.97.118.251:login:type=explicit
+2016-03-22 17:37:40,944 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=8FC7D579095D8800EA3D60906DBF8D4B:ip_addr=129.97.118.251:view_community_list:
+2016-03-22 17:37:40,944 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 17:37:48,329 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=8F70DD86E64BBCAE740B8B3786FAC882:ip_addr=129.97.118.251:view_community:community_id=2
+2016-03-22 17:37:48,436 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 17:38:08,147 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=91EBF40F4B06540BDA327A756F5E1AEE:ip_addr=129.97.118.251:view_collection:collection_id=20
+2016-03-22 17:38:08,194 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 17:38:08,822 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=91EBF40F4B06540BDA327A756F5E1AEE:ip_addr=129.97.118.251:view_bitstream:bitstream_id=42
+2016-03-22 17:38:18,732 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=91EBF40F4B06540BDA327A756F5E1AEE:ip_addr=129.97.118.251:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-22 17:38:18,736 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=91EBF40F4B06540BDA327A756F5E1AEE:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-03-22 17:38:18,736 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=91EBF40F4B06540BDA327A756F5E1AEE:ip_addr=129.97.118.251:update_eperson:eperson_id=1
+2016-03-22 17:38:18,736 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=91EBF40F4B06540BDA327A756F5E1AEE:ip_addr=129.97.118.251:login:type=explicit
+2016-03-22 17:38:19,320 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=91EBF40F4B06540BDA327A756F5E1AEE:ip_addr=129.97.118.251:view_community_list:
+2016-03-22 17:38:19,321 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 17:38:23,678 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=91EBF40F4B06540BDA327A756F5E1AEE:ip_addr=129.97.118.251:view_community:community_id=2
+2016-03-22 17:38:24,127 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 17:38:25,701 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=91EBF40F4B06540BDA327A756F5E1AEE:ip_addr=129.97.118.251:view_collection:collection_id=20
+2016-03-22 17:38:25,738 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 17:39:18,891 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=91EBF40F4B06540BDA327A756F5E1AEE:ip_addr=129.97.118.251:view_collection:collection_id=20
+2016-03-22 17:39:19,213 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 17:39:26,642 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=91EBF40F4B06540BDA327A756F5E1AEE:ip_addr=129.97.118.251:view_item:handle=123456789/52
+2016-03-22 17:39:51,555 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=732A71774FB493FF47EBF2A4B9D8E0F6:ip_addr=129.97.124.188:browse_mini:
+2016-03-22 17:39:51,582 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-03-22 17:39:59,476 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=00C072E69ECCA12BE97F6D3E82202398:ip_addr=129.97.124.188:view_community_list:
+2016-03-22 17:39:59,476 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 17:40:02,845 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=F727216A656A68D70C02953814D09485:ip_addr=129.97.118.251:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-22 17:40:02,850 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=F727216A656A68D70C02953814D09485:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-03-22 17:40:02,857 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=F727216A656A68D70C02953814D09485:ip_addr=129.97.118.251:update_eperson:eperson_id=1
+2016-03-22 17:40:02,857 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=F727216A656A68D70C02953814D09485:ip_addr=129.97.118.251:login:type=explicit
+2016-03-22 17:40:03,641 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=F727216A656A68D70C02953814D09485:ip_addr=129.97.118.251:view_community_list:
+2016-03-22 17:40:03,642 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 17:40:11,261 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=F727216A656A68D70C02953814D09485:ip_addr=129.97.118.251:view_community:community_id=2
+2016-03-22 17:40:11,559 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 17:40:21,020 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=F727216A656A68D70C02953814D09485:ip_addr=129.97.118.251:view_community:community_id=2
+2016-03-22 17:40:21,058 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 17:40:24,441 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=F727216A656A68D70C02953814D09485:ip_addr=129.97.118.251:view_collection:collection_id=20
+2016-03-22 17:40:24,490 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 17:40:25,073 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=F727216A656A68D70C02953814D09485:ip_addr=129.97.118.251:view_bitstream:bitstream_id=42
+2016-03-22 17:40:47,121 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=F727216A656A68D70C02953814D09485:ip_addr=129.97.118.251:view_collection:collection_id=20
+2016-03-22 17:40:47,156 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 17:40:48,192 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=00C072E69ECCA12BE97F6D3E82202398:ip_addr=129.97.124.188:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-22 17:40:48,198 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=00C072E69ECCA12BE97F6D3E82202398:ip_addr=129.97.124.188:authenticate:type=PasswordAuthentication
+2016-03-22 17:40:48,198 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=00C072E69ECCA12BE97F6D3E82202398:ip_addr=129.97.124.188:update_eperson:eperson_id=1
+2016-03-22 17:40:48,198 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=00C072E69ECCA12BE97F6D3E82202398:ip_addr=129.97.124.188:login:type=explicit
+2016-03-22 17:40:48,731 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=00C072E69ECCA12BE97F6D3E82202398:ip_addr=129.97.124.188:view_community_list:
+2016-03-22 17:40:48,732 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 17:40:53,769 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=F727216A656A68D70C02953814D09485:ip_addr=129.97.118.251:view_bitstream:bitstream_id=42
+2016-03-22 17:41:49,759 INFO  org.dspace.browse.BrowseEngine @ y389wu@uwaterloo.ca:session_id=F727216A656A68D70C02953814D09485:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 17:49:08,858 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=00C072E69ECCA12BE97F6D3E82202398:ip_addr=129.97.124.188:view_community_list:
+2016-03-22 17:49:08,858 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 17:55:16,782 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_collection:collection_id=20
+2016-03-22 17:55:16,877 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 17:55:18,281 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_bitstream:bitstream_id=42
+2016-03-22 17:55:34,596 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_item:handle=123456789/52
+2016-03-22 17:55:50,873 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_bitstream:bitstream_id=43
+2016-03-22 17:56:18,226 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:authenticate:attempting password auth of user=tony.tin@uwaterloo.ca
+2016-03-22 17:56:18,230 INFO  org.dspace.authenticate.PasswordAuthentication @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:authenticate:type=PasswordAuthentication
+2016-03-22 17:56:18,230 INFO  org.dspace.eperson.EPerson @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:update_eperson:eperson_id=2
+2016-03-22 17:56:18,230 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:login:type=explicit
+2016-03-22 17:56:19,119 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_community_list:
+2016-03-22 17:56:19,119 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 17:56:23,988 INFO  org.dspace.usage.LoggerUsageEventListener @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_community:community_id=2
+2016-03-22 17:56:24,457 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 17:56:26,683 INFO  org.dspace.usage.LoggerUsageEventListener @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_collection:collection_id=20
+2016-03-22 17:56:26,711 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 17:56:49,533 INFO  org.dspace.usage.LoggerUsageEventListener @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_item:handle=123456789/52
+2016-03-22 17:57:12,568 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_community_list:
+2016-03-22 17:57:29,689 INFO  org.dspace.usage.LoggerUsageEventListener @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_collection:collection_id=13
+2016-03-22 17:57:30,147 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@11b8d3c: 3
+2016-03-22 17:57:47,841 INFO  org.dspace.usage.LoggerUsageEventListener @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_item:handle=123456789/46
+2016-03-22 17:57:57,480 INFO  org.dspace.usage.LoggerUsageEventListener @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_bitstream:bitstream_id=31
+2016-03-22 17:58:09,977 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_community_list:
+2016-03-22 17:58:09,981 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 17:58:15,384 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_community:community_id=1
+2016-03-22 17:58:15,717 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2016-03-22 17:58:17,612 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_collection:collection_id=13
+2016-03-22 17:58:17,646 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@11b8d3c: 3
+2016-03-22 17:58:19,177 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_item:handle=123456789/46
+2016-03-22 17:59:04,198 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_community_list:
+2016-03-22 17:59:56,284 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_collection:collection_id=12
+2016-03-22 17:59:56,605 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@3063391d: 3
+2016-03-22 17:59:57,529 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_bitstream:bitstream_id=10
+2016-03-22 18:00:56,362 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_item:handle=123456789/50
+2016-03-22 18:01:06,749 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_bitstream:bitstream_id=40
+2016-03-22 18:01:11,760 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=C94D29836A78D04D9C7CCE04940502E3:ip_addr=129.97.118.6:view_bitstream:bitstream_id=40
+2016-03-22 18:01:25,493 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=C94D29836A78D04D9C7CCE04940502E3:ip_addr=129.97.118.6:view_bitstream:bitstream_id=40
+2016-03-22 18:01:53,348 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:authenticate:attempting password auth of user=tony.tin@uwaterloo.ca
+2016-03-22 18:01:53,352 INFO  org.dspace.authenticate.PasswordAuthentication @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:authenticate:type=PasswordAuthentication
+2016-03-22 18:01:53,357 INFO  org.dspace.eperson.EPerson @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:update_eperson:eperson_id=2
+2016-03-22 18:01:53,357 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:login:type=explicit
+2016-03-22 18:01:53,840 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_community_list:
+2016-03-22 18:01:53,840 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 18:01:59,804 INFO  org.dspace.usage.LoggerUsageEventListener @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_community:community_id=3
+2016-03-22 18:02:00,132 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@278: 3
+2016-03-22 18:02:04,610 INFO  org.dspace.usage.LoggerUsageEventListener @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_community:community_id=2
+2016-03-22 18:02:04,939 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 18:02:07,759 INFO  org.dspace.usage.LoggerUsageEventListener @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_collection:collection_id=20
+2016-03-22 18:02:07,801 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 18:02:11,069 INFO  org.dspace.usage.LoggerUsageEventListener @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_bitstream:bitstream_id=42
+2016-03-22 18:02:28,010 INFO  org.dspace.content.Collection @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:update_collection:collection_id=20
+2016-03-22 18:02:28,054 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/51 to Index
+2016-03-22 18:02:28,529 INFO  org.dspace.usage.LoggerUsageEventListener @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_collection:collection_id=20
+2016-03-22 18:02:28,846 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 18:02:44,832 INFO  org.dspace.content.Item @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:update_item:item_id=33
+2016-03-22 18:02:44,833 INFO  org.dspace.content.Item @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:create_item:item_id=33
+2016-03-22 18:02:44,843 INFO  org.dspace.content.Item @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:update_item:item_id=33
+2016-03-22 18:02:44,844 INFO  org.dspace.content.WorkspaceItem @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:create_workspace_item:workspace_item_id=-1item_id=33collection_id=20
+2016-03-22 18:02:44,845 INFO  org.dspace.content.WorkspaceItem @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:update_workspace_item:workspace_item_id=33
+2016-03-22 18:02:44,846 INFO  org.dspace.content.Item @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:update_item:item_id=33
+2016-03-22 18:02:44,852 INFO  org.dspace.content.WorkspaceItem @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:update_workspace_item:workspace_item_id=33
+2016-03-22 18:02:44,853 INFO  org.dspace.content.Item @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:update_item:item_id=33
+2016-03-22 18:02:44,854 INFO  org.dspace.content.WorkspaceItem @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:update_workspace_item:workspace_item_id=33
+2016-03-22 18:02:44,858 INFO  org.dspace.content.Item @ tony.tin@uwaterloo.ca:session_id=62CC5008E4AB9280979842BD593A1799:update_item:item_id=33
+2016-03-22 18:03:38,279 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_community_list:
+2016-03-22 18:03:38,280 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 18:05:15,696 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_community_list:
+2016-03-22 18:05:21,097 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_collection:collection_id=20
+2016-03-22 18:05:21,160 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 18:06:12,627 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_collection:collection_id=17
+2016-03-22 18:06:12,938 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@2a1be7f7: 3
+2016-03-22 18:06:14,749 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_item:handle=123456789/39
+2016-03-22 18:09:54,055 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_collection:collection_id=17
+2016-03-22 18:09:54,104 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@2a1be7f7: 3
+2016-03-22 18:09:59,474 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_item:handle=123456789/39
+2016-03-22 18:10:03,792 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_item:handle=123456789/39
+2016-03-22 18:12:57,489 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_community_list:
+2016-03-22 18:12:57,489 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 18:14:06,276 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=62CC5008E4AB9280979842BD593A1799:ip_addr=129.97.118.6:view_item:handle=123456789/48
+2016-03-22 18:19:07,053 INFO  org.dspace.eperson.AccountManager @ Sent registration information to jpwillia@uwaterloo.ca
+2016-03-22 18:31:22,332 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_community:community_id=2
+2016-03-22 18:31:22,356 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 18:31:36,255 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_collection:collection_id=20
+2016-03-22 18:31:36,655 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 18:40:59,263 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_community:community_id=2
+2016-03-22 18:40:59,366 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 18:41:00,269 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_community_list:
+2016-03-22 18:41:00,269 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 18:41:09,786 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-22 18:41:09,790 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-03-22 18:41:09,791 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:update_eperson:eperson_id=1
+2016-03-22 18:41:09,791 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:login:type=explicit
+2016-03-22 18:41:10,545 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_community_list:
+2016-03-22 18:41:10,546 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 18:41:30,678 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_community:community_id=2
+2016-03-22 18:41:30,710 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 18:41:33,635 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_collection:collection_id=20
+2016-03-22 18:41:33,948 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 18:41:34,227 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_bitstream:bitstream_id=42
+2016-03-22 18:41:37,924 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_bitstream:bitstream_id=42
+2016-03-22 18:42:34,919 INFO  org.dspace.app.xmlui.aspect.eperson.EditProfile @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_profile:
+2016-03-22 18:42:45,277 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_collection:collection_id=20
+2016-03-22 18:42:45,594 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 18:45:27,362 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_community:community_id=2
+2016-03-22 18:45:27,409 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 18:45:49,017 INFO  org.dspace.eperson.Group @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:create_group:group_id=22
+2016-03-22 18:45:49,017 INFO  org.dspace.eperson.Group @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:update_group:group_id=22
+2016-03-22 18:45:49,019 INFO  org.dspace.content.Community @ y389wu@uwaterloo.ca:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:update_community:community_id=2
+2016-03-22 18:45:49,030 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/3 to Index
+2016-03-22 18:48:09,195 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_community_list:
+2016-03-22 18:48:09,195 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 18:48:36,202 INFO  org.dspace.eperson.AccountManager @ Sent registration information to ttin59@hotmail.com
+2016-03-22 18:49:44,924 INFO  org.dspace.app.xmlui.aspect.eperson.EditProfile @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_profile:
+2016-03-22 18:50:16,661 INFO  org.dspace.eperson.EPerson @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:create_eperson:eperson_id=8
+2016-03-22 18:50:16,662 INFO  org.dspace.eperson.EPerson @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:update_eperson:eperson_id=8
+2016-03-22 18:50:16,669 INFO  org.dspace.eperson.EPerson @ ttin59@hotmail.com:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:update_eperson:eperson_id=8
+2016-03-22 18:50:16,677 INFO  org.dspace.eperson.EPerson @ ttin59@hotmail.com:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:update_eperson:eperson_id=8
+2016-03-22 18:50:26,071 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_community_list:
+2016-03-22 18:50:26,072 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 18:50:27,844 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_community_list:
+2016-03-22 18:50:27,845 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 18:50:39,945 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_community:community_id=2
+2016-03-22 18:50:39,978 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 18:50:54,865 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=535994B214D269DFBD5EC2ED50D7FABD:ip_addr=129.97.118.251:view_collection:collection_id=20
+2016-03-22 18:50:55,189 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 18:51:24,295 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9FE0F0FBA4E5F4B10A6ED69C09CECF46:ip_addr=129.97.118.251:view_collection:collection_id=19
+2016-03-22 18:51:24,770 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@2a24e5f7: 3
+2016-03-22 18:51:25,815 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9FE0F0FBA4E5F4B10A6ED69C09CECF46:ip_addr=129.97.118.251:view_bitstream:bitstream_id=34
+2016-03-22 18:51:43,764 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9FE0F0FBA4E5F4B10A6ED69C09CECF46:ip_addr=129.97.118.251:view_item:handle=123456789/49
+2016-03-22 18:52:30,723 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:view_community:community_id=2
+2016-03-22 18:52:31,116 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 18:52:37,517 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:view_collection:collection_id=20
+2016-03-22 18:52:37,572 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 18:52:38,290 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:view_bitstream:bitstream_id=42
+2016-03-22 18:52:44,981 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-22 18:52:44,985 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:authenticate:type=PasswordAuthentication
+2016-03-22 18:52:44,985 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:update_eperson:eperson_id=1
+2016-03-22 18:52:44,985 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:login:type=explicit
+2016-03-22 18:52:45,901 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 18:52:45,901 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 18:52:52,251 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:view_community:community_id=2
+2016-03-22 18:52:52,295 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 18:53:07,922 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:view_collection:collection_id=20
+2016-03-22 18:53:07,963 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 18:53:32,866 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:view_bitstream:bitstream_id=42
+2016-03-22 18:56:59,535 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=686C6A6C5F3A299B2B7B007A5C2BABC5:ip_addr=129.97.118.251:view_collection:collection_id=12
+2016-03-22 18:56:59,870 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@3063391d: 3
+2016-03-22 18:57:01,901 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-03-22 18:57:01,915 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=46D1E7FCDC2E3A00D6C78B7EFB728E2E:ip_addr=129.97.118.251:view_collection:collection_id=12
+2016-03-22 18:57:02,234 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@3063391d: 3
+2016-03-22 18:57:02,853 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=46D1E7FCDC2E3A00D6C78B7EFB728E2E:ip_addr=129.97.118.251:view_bitstream:bitstream_id=10
+2016-03-22 18:58:06,909 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=FCBE9C5FB9348C7E7F50B58F5DCEEC40:ip_addr=207.35.219.98:browse_mini:
+2016-03-22 18:58:06,929 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-03-22 18:58:07,699 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=46D1E7FCDC2E3A00D6C78B7EFB728E2E:ip_addr=129.97.118.251:view_community:community_id=8
+2016-03-22 18:58:07,750 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@27d: 3
+2016-03-22 18:58:09,690 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=46D1E7FCDC2E3A00D6C78B7EFB728E2E:ip_addr=129.97.118.251:view_community:community_id=8
+2016-03-22 18:58:09,748 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@27d: 3
+2016-03-22 18:58:12,671 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=FCBE9C5FB9348C7E7F50B58F5DCEEC40:ip_addr=207.35.219.98:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-22 18:58:13,128 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=FCBE9C5FB9348C7E7F50B58F5DCEEC40:ip_addr=207.35.219.98:authenticate:type=PasswordAuthentication
+2016-03-22 18:58:13,129 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=FCBE9C5FB9348C7E7F50B58F5DCEEC40:ip_addr=207.35.219.98:update_eperson:eperson_id=1
+2016-03-22 18:58:13,139 INFO  org.dspace.app.webui.servlet.PasswordServlet @ y389wu@uwaterloo.ca:session_id=FCBE9C5FB9348C7E7F50B58F5DCEEC40:ip_addr=207.35.219.98:login:type=explicit
+2016-03-22 18:58:13,288 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_mydspace:
+2016-03-22 18:58:16,549 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=46D1E7FCDC2E3A00D6C78B7EFB728E2E:ip_addr=129.97.118.251:view_collection:collection_id=13
+2016-03-22 18:58:16,590 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@11b8d3c: 3
+2016-03-22 18:58:19,060 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=46D1E7FCDC2E3A00D6C78B7EFB728E2E:ip_addr=129.97.118.251:view_item:handle=123456789/46
+2016-03-22 18:58:24,412 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 18:58:25,153 INFO  org.dspace.app.webui.servlet.RetrieveServlet @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_bitstream:bitstream_id=42
+2016-03-22 18:58:25,156 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_bitstream:bitstream_id=42
+2016-03-22 18:58:25,168 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2016-03-22 18:58:25,169 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost:8080/solr/statistics
+2016-03-22 18:58:25,169 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/dspace/config/GeoLiteCity.dat
+2016-03-22 18:58:25,198 INFO  org.dspace.app.webui.servlet.RetrieveServlet @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_bitstream:bitstream_id=10
+2016-03-22 18:58:25,201 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_bitstream:bitstream_id=10
+2016-03-22 18:58:25,218 INFO  org.dspace.app.webui.servlet.RetrieveServlet @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_bitstream:bitstream_id=13
+2016-03-22 18:58:25,218 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_bitstream:bitstream_id=13
+2016-03-22 18:58:25,242 INFO  org.dspace.app.webui.servlet.RetrieveServlet @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_bitstream:bitstream_id=34
+2016-03-22 18:58:25,242 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_bitstream:bitstream_id=34
+2016-03-22 18:58:25,242 INFO  org.dspace.app.webui.servlet.RetrieveServlet @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_bitstream:bitstream_id=20
+2016-03-22 18:58:25,242 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_bitstream:bitstream_id=20
+2016-03-22 18:58:25,245 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2016-03-22 18:58:25,250 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-03-22 18:58:25,652 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-03-22 18:58:25,655 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-03-22 18:58:25,657 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-03-22 18:58:25,656 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-03-22 18:58:25,689 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2016-03-22 18:58:25,690 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2016-03-22 18:58:25,690 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2016-03-22 18:58:26,596 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-misc.txt
+2016-03-22 18:58:26,598 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-misc.txt
+2016-03-22 18:58:26,601 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-infoseek.txt
+2016-03-22 18:58:26,605 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-infoseek.txt
+2016-03-22 18:58:27,829 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2016-03-22 18:58:27,848 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2016-03-22 18:58:28,015 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2016-03-22 18:58:28,015 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2016-03-22 18:58:28,169 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2016-03-22 18:58:28,169 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2016-03-22 18:58:28,173 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2016-03-22 18:58:28,174 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2016-03-22 18:58:28,321 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2016-03-22 18:58:28,322 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2016-03-22 18:58:28,339 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2016-03-22 18:58:28,339 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2016-03-22 18:58:29,030 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2016-03-22 18:58:29,030 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-non_engines.txt
+2016-03-22 18:58:29,031 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2016-03-22 18:58:29,031 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-non_engines.txt
+2016-03-22 18:58:29,054 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-altavista.txt
+2016-03-22 18:58:29,055 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-altavista.txt
+2016-03-22 18:58:29,057 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-excite.txt
+2016-03-22 18:58:29,058 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-excite.txt
+2016-03-22 18:58:29,061 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-lycos.txt
+2016-03-22 18:58:29,062 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-lycos.txt
+2016-03-22 18:58:29,079 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-inktomi.txt
+2016-03-22 18:58:29,079 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-inktomi.txt
+2016-03-22 18:58:29,495 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-google.txt
+2016-03-22 18:58:29,496 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-google.txt
+2016-03-22 18:58:38,887 INFO  org.dspace.app.webui.servlet.HandleServlet @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_collection:collection_id=20
+2016-03-22 18:58:38,889 INFO  org.dspace.browse.BrowseEngine @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:browse_by_item:
+2016-03-22 18:58:39,349 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@57d6dfd: 3
+2016-03-22 18:58:39,377 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_collection:collection_id=20
+2016-03-22 18:58:40,359 INFO  org.dspace.app.webui.servlet.RetrieveServlet @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_bitstream:bitstream_id=42
+2016-03-22 18:58:40,359 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_bitstream:bitstream_id=42
+2016-03-22 18:58:56,856 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-03-22 18:59:00,288 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-03-22 18:59:09,836 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=46D1E7FCDC2E3A00D6C78B7EFB728E2E:ip_addr=129.97.118.251:view_collection:collection_id=16
+2016-03-22 18:59:11,157 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ca089ac2: 3
+2016-03-22 18:59:49,455 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=46D1E7FCDC2E3A00D6C78B7EFB728E2E:ip_addr=129.97.118.251:view_collection:collection_id=16
+2016-03-22 19:00:41,078 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:01:14,320 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2625)
+	at java.lang.Class.getMethod0(Class.java:2866)
+	at java.lang.Class.getMethod(Class.java:1676)
+	at org.apache.commons.logging.LogFactory.directGetContextClassLoader(LogFactory.java:896)
+	at org.apache.commons.logging.LogFactory$1.run(LogFactory.java:862)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.commons.logging.LogFactory.getContextClassLoaderInternal(LogFactory.java:859)
+	at org.apache.commons.logging.LogFactory.getFactory(LogFactory.java:423)
+	at org.apache.commons.logging.LogFactory.getLog(LogFactory.java:685)
+	at org.apache.cocoon.util.AbstractLogEnabled.<init>(AbstractLogEnabled.java:36)
+	at org.apache.cocoon.components.treeprocessor.InvokeContext.<init>(InvokeContext.java:104)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.buildPipeline(ConcreteTreeProcessor.java:184)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.buildPipeline(TreeProcessor.java:260)
+	at org.apache.cocoon.components.source.impl.SitemapSource.init(SitemapSource.java:277)
+	at org.apache.cocoon.components.source.impl.SitemapSource.<init>(SitemapSource.java:148)
+	at org.apache.cocoon.components.source.impl.SitemapSourceFactory.getSource(SitemapSourceFactory.java:62)
+	at org.apache.cocoon.components.source.CocoonSourceResolver.resolveURI(CocoonSourceResolver.java:153)
+	at org.apache.cocoon.components.source.CocoonSourceResolver.resolveURI(CocoonSourceResolver.java:183)
+	at org.apache.cocoon.generation.FileGenerator.setup(FileGenerator.java:99)
+	at org.dspace.app.xmlui.cocoon.AspectGenerator.setup(AspectGenerator.java:81)
+	at sun.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy29.setup(Unknown Source)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.setupPipeline(AbstractProcessingPipeline.java:343)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.setupPipeline(AbstractCachingProcessingPipeline.java:710)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.preparePipeline(AbstractProcessingPipeline.java:466)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.prepareInternal(AbstractProcessingPipeline.java:480)
+	at sun.reflect.GeneratedMethodAccessor59.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2016-03-22 19:01:14,345 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:view_mydspace:
+2016-03-22 19:01:14,321 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at org.apache.commons.dbcp.AbandonedTrace.<init>(AbandonedTrace.java:43)
+	at org.apache.commons.dbcp.DelegatingResultSet.<init>(DelegatingResultSet.java:81)
+	at org.apache.commons.dbcp.DelegatingResultSet.wrapResultSet(DelegatingResultSet.java:104)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at org.dspace.storage.rdbms.DatabaseManager.queryTable(DatabaseManager.java:221)
+	at org.dspace.storage.rdbms.DatabaseManager.querySingleTable(DatabaseManager.java:362)
+	at org.dspace.storage.rdbms.DatabaseManager.findByUnique(DatabaseManager.java:510)
+	at org.dspace.storage.rdbms.DatabaseManager.find(DatabaseManager.java:472)
+	at org.dspace.content.Collection.find(Collection.java:179)
+	at org.dspace.handle.HandleManager.resolveToObject(HandleManager.java:363)
+	at org.dspace.app.xmlui.utils.HandleUtil.obtainHandle(HandleUtil.java:87)
+	at org.dspace.app.xmlui.cocoon.ThemeMatcher.match(ThemeMatcher.java:57)
+	at org.apache.cocoon.sitemap.impl.DefaultExecutor.invokeMatcher(DefaultExecutor.java:68)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MatchNode.invoke(MatchNode.java:71)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelineNode.invoke(PipelineNode.java:143)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelinesNode.invoke(PipelinesNode.java:81)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:239)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:171)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.process(TreeProcessor.java:247)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MountNode.invoke(MountNode.java:117)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelineNode.invoke(PipelineNode.java:143)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelinesNode.invoke(PipelinesNode.java:81)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:239)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:171)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.process(TreeProcessor.java:247)
+	at org.apache.cocoon.servlet.RequestProcessor.process(RequestProcessor.java:351)
+	at org.apache.cocoon.servlet.RequestProcessor.service(RequestProcessor.java:169)
+	at org.apache.cocoon.sitemap.SitemapServlet.service(SitemapServlet.java:84)
+2016-03-22 19:01:14,809 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:01:16,286 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:01:16,731 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=46D1E7FCDC2E3A00D6C78B7EFB728E2E:ip_addr=129.97.118.251:view_collection:collection_id=12
+2016-03-22 19:01:18,517 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@3063391d: 3
+2016-03-22 19:01:46,365 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:02:30,811 INFO  org.dspace.browse.BrowseEngine @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:browse_mini:
+2016-03-22 19:02:30,832 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-03-22 19:02:34,348 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 19:02:34,353 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:02:35,251 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 19:02:35,252 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:02:46,786 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:315)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:04:50,198 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:315)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:04:50,200 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:315)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:04:50,615 INFO  org.dspace.browse.BrowseEngine @ y389wu@uwaterloo.ca:session_id=99DB104E0D07D5821B013570799A98C1:ip_addr=207.35.219.98:browse_mini:
+2016-03-22 19:04:50,618 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 19:04:50,618 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:04:50,619 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 19:04:50,941 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:04:51,416 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=9BD2CB4B5296D91EBBBDB49104496B2B:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 19:04:51,416 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:04:51,884 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2016-03-22 19:04:58,224 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:315)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:04:58,539 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:315)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:05:21,621 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:07:13,999 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:07:14,926 INFO  org.dspace.app.xmlui.aspect.discovery.AbstractSearch @ anonymous:session_id=9F669FBCC49B49470C5DC7E77418D0FC:ip_addr=129.97.118.251:search:query="null",results=(0,0,0)
+2016-03-22 19:07:15,987 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:07:39,762 ERROR org.dspace.statistics.SolrLoggerUsageEventListener @ Server at http://localhost:8080/solr/statistics returned non ok status:500, message:Internal Server Error
+2016-03-22 19:08:03,496 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:08:06,387 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:09:07,399 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:09:45,508 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:09:51,163 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:789)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:10:20,878 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:11:40,309 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:11:56,401 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:12:37,818 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:12:43,089 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:13:05,109 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:13:21,468 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:13:41,238 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:789)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:13:43,014 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:13:43,815 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:14:51,681 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:15:10,733 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:15:22,443 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:16:28,778 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:17:36,027 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:17:44,774 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:18:16,149 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:18:39,861 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:19:34,300 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+2016-03-22 19:19:54,108 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:19:54,109 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:19:57,429 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Serious Error Occurred Processing Request!
+org.springframework.web.util.NestedServletException: Handler processing failed; nested exception is java.lang.OutOfMemoryError: Java heap space
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:972)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+2016-03-22 19:19:58,218 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=CCD03BB6BD3882CF6ED7E2E0622492DB:ip_addr=129.97.118.251:view_collection:collection_id=12
+2016-03-22 19:19:58,569 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=E2C9133E7E7C18BDAA62F80254AF9D2A:ip_addr=129.97.118.251:view_collection:collection_id=20
+2016-03-22 19:19:59,829 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=D8569A741CE9CA8535F4BC7F6062E24B:ip_addr=129.97.118.251:view_collection:collection_id=20
+2016-03-22 19:20:00,126 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:21:12,081 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2016-03-22 19:21:12,313 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2016-03-22 19:21:12,313 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2016-03-22 19:21:12,313 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2016-03-22 19:21:12,314 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2016-03-22 19:21:12,314 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2016-03-22 19:21:12,314 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2016-03-22 19:21:12,314 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2016-03-22 19:21:12,314 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2016-03-22 19:21:12,314 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Default Reference Theme', path='Reference/', id='null', regex='.*', handle='null'.
+2016-03-22 19:22:19,827 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=A213255846EE3663C4AB4E461E6B0E07:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 19:22:19,829 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=59B669F0E6C24ABBD0AE9285A030559E:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 19:22:19,829 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=4FB7F0DCCF611F1DB1624D6E805FC0E2:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 19:22:19,829 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=A872857CD57F549D6EF1428458CA787A:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 19:22:19,829 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=8EB7CD19E3A9B95E34B68B8BD967897D:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 19:22:19,829 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=BB40467583D56BA3A7187CEFE395F5C7:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 19:22:20,629 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=09CDFDF577A6F66B95508FBF14E7DA83:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 19:22:20,994 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=2BC8208D695AEC0C30CBCC493362024B:ip_addr=129.97.118.251:browse_by_value:focus=null
+2016-03-22 19:22:21,698 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=2BC8208D695AEC0C30CBCC493362024B:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@466c5de2
+2016-03-22 19:22:22,036 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=BB40467583D56BA3A7187CEFE395F5C7:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@7f9fd2f7
+2016-03-22 19:22:22,044 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=A213255846EE3663C4AB4E461E6B0E07:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@368524df
+2016-03-22 19:22:22,049 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=09CDFDF577A6F66B95508FBF14E7DA83:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@4748203f
+2016-03-22 19:22:22,054 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=8EB7CD19E3A9B95E34B68B8BD967897D:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@5ad9596a
+2016-03-22 19:22:22,058 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=59B669F0E6C24ABBD0AE9285A030559E:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@737d6cbe
+2016-03-22 19:22:22,093 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=A872857CD57F549D6EF1428458CA787A:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@22266719
+2016-03-22 19:22:22,124 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=4FB7F0DCCF611F1DB1624D6E805FC0E2:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@5874849d
+2016-03-22 19:22:32,056 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2016-03-22 19:22:32,141 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2016-03-22 19:22:33,990 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-03-22 19:22:33,991 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-03-22 19:22:34,013 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-03-22 19:22:34,044 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-03-22 19:22:34,073 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-03-22 19:22:35,947 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-03-22 19:22:35,957 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2016-03-22 19:27:20,468 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:27:20,737 INFO  org.dspace.app.xmlui.aspect.discovery.AbstractSearch @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:search:query="null",results=(0,0,0)
+2016-03-22 19:27:20,782 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:27:31,753 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2016-03-22 19:27:31,754 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost:8080/solr/statistics
+2016-03-22 19:27:31,754 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/dspace/config/GeoLiteCity.dat
+2016-03-22 19:27:31,817 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2016-03-22 19:27:31,823 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2016-03-22 19:27:31,928 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-misc.txt
+2016-03-22 19:27:31,939 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-infoseek.txt
+2016-03-22 19:27:32,766 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2016-03-22 19:27:32,894 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2016-03-22 19:27:33,140 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2016-03-22 19:27:33,159 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2016-03-22 19:27:33,162 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2016-03-22 19:27:33,173 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2016-03-22 19:27:33,702 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2016-03-22 19:27:33,846 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2016-03-22 19:27:33,846 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-non_engines.txt
+2016-03-22 19:27:33,848 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-altavista.txt
+2016-03-22 19:27:33,853 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-excite.txt
+2016-03-22 19:27:33,853 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:27:33,854 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-lycos.txt
+2016-03-22 19:27:33,865 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-inktomi.txt
+2016-03-22 19:27:33,879 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-google.txt
+2016-03-22 19:27:34,014 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:27:34,732 INFO  org.dspace.app.xmlui.aspect.discovery.AbstractSearch @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:search:query="tin",results=(0,0,0)
+2016-03-22 19:27:34,879 INFO  org.dspace.app.xmlui.aspect.discovery.AbstractSearch @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:search:query="tin",results=(0,0,0)
+2016-03-22 19:27:34,994 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:27:51,780 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 19:27:51,857 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@3843d7c5
+2016-03-22 19:28:02,906 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 19:28:02,950 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@274435b4
+2016-03-22 19:28:16,401 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 19:28:16,459 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@435d6a7a
+2016-03-22 19:28:21,542 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse_by_value:focus=null
+2016-03-22 19:28:21,554 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@494c21dc
+2016-03-22 19:28:30,676 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 19:28:30,717 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@2cc2ff17
+2016-03-22 19:28:34,037 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse_by_value:focus=null
+2016-03-22 19:28:34,054 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@873249e
+2016-03-22 19:29:23,534 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse_by_item:
+2016-03-22 19:29:23,603 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse:org.dspace.app.xmlui.utils.DSpaceValidity@618a0a05
+2016-03-22 19:29:27,000 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:view_item:handle=123456789/31
+2016-03-22 19:29:34,832 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:view_collection:collection_id=12
+2016-03-22 19:29:34,883 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@3063391d: 3
+2016-03-22 19:29:35,333 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:view_bitstream:bitstream_id=10
+2016-03-22 19:29:38,871 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse_mini:
+2016-03-22 19:29:53,201 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=EA30EAF0034F7ED53E81A29D13378D2A:ip_addr=129.97.118.251:browse_mini:
+2016-03-22 19:30:05,923 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=7CB0976B25BB74F1DFFB75FCF13270A6:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 19:30:05,926 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:30:06,077 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:31:11,623 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 19:31:11,689 INFO  org.dspace.app.xmlui.aspect.discovery.AbstractSearch @ anonymous:session_id=5F636515927A7FD5588623360E956D4B:ip_addr=129.97.118.251:search:query="null",results=(0,0,0)
+2016-03-22 19:31:38,210 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=5F636515927A7FD5588623360E956D4B:ip_addr=129.97.118.251:view_collection:collection_id=19
+2016-03-22 19:31:38,276 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@2a24e5f7: 3
+2016-03-22 19:31:42,047 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=5F636515927A7FD5588623360E956D4B:ip_addr=129.97.118.251:browse_mini:
+2016-03-22 20:28:12,354 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=3FFED68E6E414404AD25F37FB3E5DC85:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 20:28:41,576 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=3FFED68E6E414404AD25F37FB3E5DC85:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 20:28:41,576 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 21:00:52,265 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=CABF29989648F8A27E70952A29761610:ip_addr=174.94.66.168:view_community_list:
+2016-03-22 21:01:04,491 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=CABF29989648F8A27E70952A29761610:ip_addr=174.94.66.168:view_community:community_id=1
+2016-03-22 21:01:04,644 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2016-03-22 21:01:07,115 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=CABF29989648F8A27E70952A29761610:ip_addr=174.94.66.168:view_collection:collection_id=13
+2016-03-22 21:01:07,562 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@11b8d3c: 3
+2016-03-22 21:01:24,224 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=ED1686B19A1CA3A7537AA0C287ADF27A:ip_addr=174.94.66.168:view_community_list:
+2016-03-22 21:31:31,048 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=A3C0F55DCE5CBBC6C7293E5B2FF226AE:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 21:31:31,050 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 21:33:07,467 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=A3C0F55DCE5CBBC6C7293E5B2FF226AE:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 21:33:07,468 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 22:52:54,110 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 22:52:54,111 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 22:56:10,679 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 22:56:10,679 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 22:56:14,570 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 22:56:16,281 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 22:56:16,281 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:11:03,487 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:11:03,488 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:12:07,784 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_item:handle=123456789/52
+2016-03-22 23:12:07,922 INFO  org.dspace.app.util.GoogleMetadata @ Using [/dspace/config/crosswalks/google-metadata.properties] for Google Metadata configuration
+2016-03-22 23:12:11,392 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:12:11,393 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:12:15,373 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:12:15,374 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:12:16,804 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:12:16,805 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:12:20,102 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community:community_id=3
+2016-03-22 23:12:20,575 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@278: 3
+2016-03-22 23:14:42,897 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:14:42,897 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:20:10,667 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:20:10,668 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:20:59,762 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:20:59,763 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:21:09,502 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:21:09,503 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:24:34,203 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:24:34,203 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:25:06,286 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:25:06,287 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:28:36,445 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:28:36,445 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:29:54,724 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:30:35,521 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:35:58,419 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:36:06,062 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:36:06,063 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:36:12,118 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community:community_id=2
+2016-03-22 23:36:12,268 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2016-03-22 23:36:17,795 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:36:18,233 INFO  org.dspace.app.xmlui.aspect.discovery.AbstractSearch @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:search:query="null",results=(0,0,0)
+2016-03-22 23:36:26,451 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:36:26,451 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:36:54,513 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:36:54,517 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:37:02,270 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:37:02,270 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:37:20,706 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:37:20,707 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:37:54,919 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community_list:
+2016-03-22 23:37:54,919 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-22 23:38:00,576 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community:community_id=9
+2016-03-22 23:38:01,117 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@27e: 3
+2016-03-22 23:38:03,973 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community:community_id=1
+2016-03-22 23:38:04,021 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2016-03-22 23:38:07,610 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_item:handle=123456789/46
+2016-03-22 23:38:19,497 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community:community_id=9
+2016-03-22 23:38:19,530 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@27e: 3
+2016-03-22 23:38:23,958 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community:community_id=10
+2016-03-22 23:38:23,997 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@27f: 3
+2016-03-22 23:38:26,721 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9B500D78B1D0244991DD2DDE9FE07597:ip_addr=207.35.219.98:view_community:community_id=11
+2016-03-22 23:38:26,754 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@280: 3
+2016-03-22 23:54:28,306 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=50F99922142D154154C55BDA130E40AE:ip_addr=135.0.27.200:view_community_list:

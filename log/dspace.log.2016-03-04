@@ -1,0 +1,75 @@
+2016-03-04 03:22:44,097 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=35D93848E295248124ED973066A8943F:ip_addr=135.0.27.200:view_community_list:
+2016-03-04 03:22:54,133 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=8031CBB8B6EDBF8CF9BEAC76C05CCBA8:ip_addr=135.0.27.200:view_collection:collection_id=12
+2016-03-04 03:22:54,211 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@3063391d: 3
+2016-03-04 03:22:54,847 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=B334FBCAC18FAD4479D5D5293F20E51A:ip_addr=135.0.27.200:view_bitstream:bitstream_id=10
+2016-03-04 03:23:08,047 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=33AF4F896C122A80614784E48B7ADBF1:ip_addr=135.0.27.200:view_community_list:
+2016-03-04 03:23:08,053 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-04 03:23:14,935 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=F089393CB73F8FBB0A3939732E35919F:ip_addr=135.0.27.200:view_item:handle=123456789/43
+2016-03-04 03:23:27,564 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=07FB75E24E20673624BE3641CC0F2A0D:ip_addr=135.0.27.200:view_bitstream:bitstream_id=25
+2016-03-04 03:24:16,781 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=F8E51FD2F4A04401BA52F490280BDCAD:ip_addr=135.0.27.200:view_community_list:
+2016-03-04 03:24:21,038 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=F8E51FD2F4A04401BA52F490280BDCAD:ip_addr=135.0.27.200:view_collection:collection_id=13
+2016-03-04 03:24:21,102 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@11b8d3c: 3
+2016-03-04 03:24:26,998 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=F8E51FD2F4A04401BA52F490280BDCAD:ip_addr=135.0.27.200:view_item:handle=123456789/43
+2016-03-04 16:00:43,618 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=73295104099CB82401E6CFC604A7AD87:ip_addr=129.97.118.251:view_community_list:
+2016-03-04 16:01:06,682 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=F43AA75A74BA5BC86F3A0410B2507E58:ip_addr=129.97.118.251:view_collection:collection_id=8
+2016-03-04 16:01:07,149 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@b9714b01: 3
+2016-03-04 16:01:09,795 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=C5DFF46D2F487AFFC5F0965A0F3698F1:ip_addr=129.97.118.251:view_community_list:
+2016-03-04 16:01:16,486 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=F84B24112BCE30B631BC79E107381482:ip_addr=129.97.118.251:view_collection:collection_id=13
+2016-03-04 16:01:16,555 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@11b8d3c: 3
+2016-03-04 16:01:18,846 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=F4BCF092DCA5E02E02561FD24F115B3F:ip_addr=129.97.118.251:view_item:handle=123456789/43
+2016-03-04 16:03:53,428 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=DB0A096B90C224F57F3082DDF1DC064D:ip_addr=129.97.118.251:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-04 16:03:53,439 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=DB0A096B90C224F57F3082DDF1DC064D:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-03-04 16:03:53,440 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=DB0A096B90C224F57F3082DDF1DC064D:ip_addr=129.97.118.251:update_eperson:eperson_id=1
+2016-03-04 16:03:53,440 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=DB0A096B90C224F57F3082DDF1DC064D:ip_addr=129.97.118.251:login:type=explicit
+2016-03-04 16:03:54,030 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=F5F9A0D138E02E80D7E5CE7BCED32BE0:ip_addr=129.97.118.251:view_community_list:
+2016-03-04 16:03:54,030 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-04 16:04:17,647 INFO  org.dspace.eperson.AccountManager @ Sent registration information to tonytin59@gmail.com
+2016-03-04 16:04:38,102 INFO  org.dspace.app.xmlui.aspect.eperson.EditProfile @ anonymous:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:view_profile:
+2016-03-04 16:04:57,776 INFO  org.dspace.eperson.EPerson @ anonymous:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:create_eperson:eperson_id=6
+2016-03-04 16:04:57,777 INFO  org.dspace.eperson.EPerson @ anonymous:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:update_eperson:eperson_id=6
+2016-03-04 16:04:57,785 INFO  org.dspace.eperson.EPerson @ tonytin59@gmail.com:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:update_eperson:eperson_id=6
+2016-03-04 16:04:57,797 INFO  org.dspace.eperson.EPerson @ tonytin59@gmail.com:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:update_eperson:eperson_id=6
+2016-03-04 16:05:02,917 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:view_community_list:
+2016-03-04 16:05:02,921 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-04 16:05:24,596 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:authenticate:attempting password auth of user=tonytin59@gmail.com
+2016-03-04 16:05:24,601 INFO  org.dspace.authenticate.PasswordAuthentication @ tonytin59@gmail.com:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-03-04 16:05:24,601 INFO  org.dspace.eperson.EPerson @ tonytin59@gmail.com:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:update_eperson:eperson_id=6
+2016-03-04 16:05:24,601 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ tonytin59@gmail.com:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:login:type=explicit
+2016-03-04 16:05:24,764 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ tonytin59@gmail.com:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:view_community_list:
+2016-03-04 16:05:24,764 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-04 16:07:27,674 INFO  org.dspace.usage.LoggerUsageEventListener @ tonytin59@gmail.com:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:view_community:community_id=11
+2016-03-04 16:07:27,766 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@280: 3
+2016-03-04 16:07:29,616 INFO  org.dspace.usage.LoggerUsageEventListener @ tonytin59@gmail.com:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:view_collection:collection_id=16
+2016-03-04 16:07:30,028 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ca089ac2: 3
+2016-03-04 16:07:30,308 INFO  org.dspace.usage.LoggerUsageEventListener @ tonytin59@gmail.com:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:view_bitstream:bitstream_id=13
+2016-03-04 16:08:49,002 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:view_community_list:
+2016-03-04 16:08:49,002 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-04 16:08:58,766 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-04 16:08:58,778 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-03-04 16:08:58,779 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:update_eperson:eperson_id=1
+2016-03-04 16:08:58,779 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:login:type=explicit
+2016-03-04 16:08:59,312 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=613220FDA50D1904418EF86A43FF9E87:ip_addr=129.97.118.251:view_community_list:
+2016-03-04 16:08:59,313 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-04 16:09:33,364 INFO  org.dspace.eperson.AccountManager @ Sent account information to tony.tin@uwaterloo.ca
+2016-03-04 16:10:04,559 INFO  org.dspace.eperson.EPerson @ tony.tin@uwaterloo.ca:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:update_eperson:eperson_id=2
+2016-03-04 16:10:09,662 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:view_community_list:
+2016-03-04 16:10:09,662 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-04 16:10:26,167 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:authenticate:attempting password auth of user=tony.tin@uwaterloo.ca
+2016-03-04 16:10:26,172 INFO  org.dspace.authenticate.PasswordAuthentication @ tony.tin@uwaterloo.ca:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-03-04 16:10:26,173 INFO  org.dspace.eperson.EPerson @ tony.tin@uwaterloo.ca:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:update_eperson:eperson_id=2
+2016-03-04 16:10:26,173 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ tony.tin@uwaterloo.ca:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:login:type=explicit
+2016-03-04 16:10:26,337 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ tony.tin@uwaterloo.ca:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:view_community_list:
+2016-03-04 16:10:26,338 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-04 16:10:44,708 INFO  org.dspace.app.xmlui.aspect.eperson.EditProfile @ tony.tin@uwaterloo.ca:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:view_profile:
+2016-03-04 16:10:51,155 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:view_community_list:
+2016-03-04 16:10:51,155 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-04 16:11:17,942 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:view_community:community_id=11
+2016-03-04 16:11:17,982 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@280: 3
+2016-03-04 16:13:47,345 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:view_item:handle=123456789/34
+2016-03-04 16:16:37,723 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:authenticate:attempting password auth of user=y389wu@uwaterloo.ca
+2016-03-04 16:16:37,727 INFO  org.dspace.authenticate.PasswordAuthentication @ y389wu@uwaterloo.ca:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:authenticate:type=PasswordAuthentication
+2016-03-04 16:16:37,733 INFO  org.dspace.eperson.EPerson @ y389wu@uwaterloo.ca:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:update_eperson:eperson_id=1
+2016-03-04 16:16:37,733 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ y389wu@uwaterloo.ca:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:login:type=explicit
+2016-03-04 16:16:38,256 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ y389wu@uwaterloo.ca:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:view_community_list:
+2016-03-04 16:16:38,257 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2016-03-04 16:16:44,498 INFO  org.dspace.usage.LoggerUsageEventListener @ y389wu@uwaterloo.ca:session_id=8A591B0B554B8106C817F59B68A0ABED:ip_addr=129.97.118.251:view_item:handle=123456789/34

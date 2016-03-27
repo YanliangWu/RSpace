@@ -296,6 +296,9 @@
                     <xsl:when test="starts-with($request-uri, 'page/about')">
                         <xsl:text>About This Repository</xsl:text>
                     </xsl:when>
+		    <xsl:when test="starts-with($request-uri, 'page/faq')">
+                        <xsl:text>Frequently Asked Question</xsl:text>
+                    </xsl:when>
                     <xsl:when test="not($page_title) or (string-length($page_title) &lt; 1)">
                                 <i18n:text>xmlui.dri2xhtml.METS-1.0.no-title</i18n:text>
                         </xsl:when>
@@ -349,7 +352,10 @@
             <ul id="ds-trail">
                 <xsl:choose>
                         <xsl:when test="starts-with($request-uri, 'page/about')">
-                            <xsl:text>About This Repository</xsl:text>
+                            <xsl:text>About RSpace</xsl:text>
+                        </xsl:when>
+			<xsl:when test="starts-with($request-uri, 'page/faq')">
+                            <xsl:text>Frequent Asked Question</xsl:text>
                         </xsl:when>
                         <xsl:when test="count(/dri:document/dri:meta/dri:pageMeta/dri:trail) = 0">
                                 <li class="ds-trail-link first-link"> - </li>
@@ -580,14 +586,87 @@
             <xsl:choose>
                 <xsl:when test="starts-with($request-uri, 'page/about')">
                     <div>
-                        <h1>About This Repository</h1>
-                        <p>To add your own content to this page, edit webapps/xmlui/themes/dri2xhtml/structural.xsl and
-                            add your own content to the title, trail, and body. If you wish to add additional pages, you
-                            will need to create an additional xsl:when block and match the request-uri to whatever page
-                            you are adding. Currently, static pages created through altering XSL are only available
-                            under the URI prefix of page/.</p>
-                    </div>
+                        <h1>WELCOME TO RSPACE</h1>
+                    <p>
+			RSpace is an open access repository provided by the Lusi Wong Library for scholarly research produced by members of the Renison University College community	
+		    </p>
+		<h3>
+		What is Open Access?
+		</h3>
+		<p>
+                Open Access is a method of scholarly publishing which is available online free to the user. Open Access users may freely copy, distribute and used with proper attribution    
+		</p>
+		<h3>
+                Open Access is not:
+                </h3>
+                <p>
+                Cost free or cheaper than traditional scholarly communication <br />
+		Lower quality than other methods of scholarly communication <br />
+		Free to producers or free of rights <br />
+		Inconsistent with peer review <br />
+		</p>
+
+		<h3>
+                What are the benefits of RSpace for researchers and institution?
+                </h3>
+		<h4>
+                Benefits For Researchers
+		</h4>
+		<p>
+		<b>More Exposure to your research</b>: By publishing in a journal, your research is available only to people who subscribe to that journal or have access to a library that subscribes to that journal. By publishing your research in an institutional repository, you make it available to anyone who is interested. Open Access breaks down the barriers in research accessibility between rich countries and Poor countries. <br /><br />
+		<b>Higher research impact</b>: Studies show that items published in an open access repository are often cited much more frequently than items published using traditional methods. <br /><br />
+		<b>Easier Compliance with Open Access Mandates</b>: Allows compliance with funding agencies such as the Tri-Agency Group that have Open Access Policies <br />	<br />
+		<b>More Discoverability:</b> Open access articles are fully searchable by search engines such as Google and Google Scholar. <br /><br />
+		<b>Persistent Access:</b> Items in RSpace are given a persistent URL that will not break. This means you can cite your item and not worry about the link changing in the future. <br /><br />
+		<b>Long Term preservation</b>: The Renison library will take care of preserving your item and updating the format when necessary.<br /><br />
+
+		</p>  
+		<h4>
+                Benefits for Renison University College:
+		</h4>
+		<p>
+		<b>More exposure for our institution:</b> By publishing in an institutional repository you can potentially make the research created by our institution available to a greater range of people. By collecting all of the University Colleges research in one place, an institutional repository has the potential to give a more complete picture of our research output. This can help give a more complete picture of our research output to potential students, faculty members and donors. This can also help faculty in administrative roles evaluate the research quality of different departments and schools.
+		</p>
+
+		    </div>
                 </xsl:when>
+		<xsl:when test="starts-with($request-uri, 'page/faq')">
+                    <div>
+                    <h1>Frequently Asked Question</h1>
+                    <p>
+                    </p>
+                <h3>Q: Who may deposit work into RSpace: </h3>
+                <p>
+                Faculty members (current, emeritus, and retired), researchers, librarians, archivists, and staff members of Renison University College may deposit appropriate materials in RSpace. Retrospective deposits of materials published or created before the authors joined Renison are permitted as long as the authors are currently affiliated with Renison. Retrospective deposits of materials by authors who are no longer affiliated with Renison are acceptable as long as the materials to be deposited were published or created by the authors during their tenures at Renison.
+		</p>
+		<h3>Q: Am I allowed to deposit my work into RSpace?</h3>
+                <p>
+                A: That depends on whether your work that has already been published or not. If it has not been published, you are automatically the copyright holder as the creator of the work. If your work has been published, your ability to publish is based on the agreement you made with the publisher of the book or journal you have published in. If you want to check some the publishing agreement you can try to search for the journal in Sherpa/Romeo. If you cannot find any information about your journal or still have questions, please contact the Library.
+		</p>
+                <h3>Q: What types of works are acceptable to publish in RSpace: </h3>
+                <p>
+                Any scholarly, artistic, or research oriented work produced by any faculty or staff member of Renison University College. Types of items accepted include: learning objects, articles, technical reports, working papers, conference papers, research centre archives, e-portfolios, academic research, and more.
+		</p>
+		<h3>Q: What rights will the University of Waterloo have if I decide to deposit my work in RSpace? </h3>
+                <p>
+                A: You give the Renison University College the non-exclusive rights to reproduce, distribute, and convert the format of the item for preservation purposes. You do NOT transfer copyright to the University College.
+		</p> 
+		<h3>Q: Can I decide what users may or may not do with my work?</h3>
+                <p>
+                A: Yes! We recommend that you license your work with creative commons. Use their handy license selector tools to decide how to license your work.
+		</p>
+		<h3>Q: What funding agencies have an open access mandate?</h3>
+                <p>
+                A: The Tri Agency Group (SSHRC. NSERC and CHIN) have a Open Access Mandate. Find a listing here of funding agencies that require research to be available through open access.
+		<br /><br /><br />
+		</p>	
+		
+		<p>
+                Adapted from UWSpace, AUSpace, Scholars Commons @ Laurier, Scholarship@Western
+		</p> 
+		 </div>
+                </xsl:when>
+
                 <!-- Otherwise use default handling of body -->
                 <xsl:otherwise>
                     <xsl:apply-templates />
@@ -727,6 +806,21 @@
                     </ul>
                 </div>
             </xsl:if>
+            <!-- This is the About page Box-->
+            <h3 id="ds-about-option" class="ds-option-set-head">
+                About and FAQ
+		</h3>
+                <div id="ds-about-option" class="ds-option-set">
+                <ul class="ds-simple-list">
+		<li>
+		<a href="/xmlui/page/about">About</a>
+		</li>
+		<li>
+		<a href="/xmlui/page/faq">FAQ</a>
+		</li>
+		</ul>
+		</div>
+
 
         </div>
     </xsl:template>
